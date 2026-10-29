@@ -1,0 +1,83 @@
+[SUPPORTED] SELECT retrieves rows from a table or query result.
+[CONTRADICTED] SELECT is used only to delete rows.
+[SUPPORTED] WHERE filters rows according to a condition before grouping.
+[CONTRADICTED] WHERE filters groups after aggregation.
+[SUPPORTED] ORDER BY sorts query results according to specified expressions.
+[CONTRADICTED] ORDER BY permanently sorts rows stored in a table.
+[SUPPORTED] LIMIT restricts the maximum number of rows returned by a query.
+[CONTRADICTED] LIMIT increases the number of rows returned by a query.
+[SUPPORTED] SELECT DISTINCT eliminates duplicate rows from a query result.
+[CONTRADICTED] SELECT DISTINCT preserves all duplicate result rows.
+[SUPPORTED] GROUP BY combines rows sharing grouping values into groups.
+[CONTRADICTED] GROUP BY always sorts the final query output.
+[SUPPORTED] HAVING filters groups after grouping and aggregation.
+[CONTRADICTED] HAVING is only used to filter individual rows before grouping.
+[SUPPORTED] INNER JOIN returns rows that satisfy the join condition from both joined tables.
+[CONTRADICTED] INNER JOIN always returns all unmatched rows from both tables.
+[SUPPORTED] LEFT JOIN preserves unmatched rows from the left table, filling right-side columns with NULL.
+[CONTRADICTED] LEFT JOIN discards every unmatched row from the left table.
+[SUPPORTED] RIGHT JOIN preserves unmatched rows from the right table.
+[CONTRADICTED] RIGHT JOIN preserves only unmatched rows from the left table.
+[SUPPORTED] FULL OUTER JOIN includes unmatched rows from either joined table.
+[CONTRADICTED] FULL OUTER JOIN excludes all unmatched rows.
+[SUPPORTED] CROSS JOIN produces the Cartesian product of its input tables.
+[CONTRADICTED] CROSS JOIN returns only rows with matching key values.
+[SUPPORTED] COUNT(*) counts input rows, including rows containing NULL values.
+[CONTRADICTED] COUNT(*) excludes all rows containing any NULL column.
+[SUPPORTED] SUM computes the sum of non-NULL input values.
+[CONTRADICTED] SUM counts the number of non-NULL input rows.
+[SUPPORTED] AVG computes the arithmetic mean of non-NULL input values.
+[CONTRADICTED] AVG always includes NULL values as zeros.
+[SUPPORTED] MIN returns the smallest non-NULL input value.
+[CONTRADICTED] MIN returns the largest input value.
+[SUPPORTED] MAX returns the largest non-NULL input value.
+[CONTRADICTED] MAX returns the smallest input value.
+[SUPPORTED] A primary key uniquely identifies rows and requires unique non-NULL values.
+[CONTRADICTED] A primary key permits duplicate and NULL key values.
+[SUPPORTED] A foreign key enforces referential integrity between referencing and referenced columns.
+[CONTRADICTED] A foreign key requires every value to be unique within the referencing table.
+[SUPPORTED] A UNIQUE constraint prevents duplicate non-NULL values in its constrained key.
+[CONTRADICTED] A UNIQUE constraint permits unlimited duplicate non-NULL key values.
+[SUPPORTED] A NOT NULL constraint prevents NULL values in a column.
+[CONTRADICTED] A NOT NULL constraint requires every value in the column to be NULL.
+[SUPPORTED] A CHECK constraint validates a Boolean condition for inserted or updated rows.
+[CONTRADICTED] A CHECK constraint is used only to sort query results.
+[SUPPORTED] INSERT adds new rows to a table.
+[CONTRADICTED] INSERT removes existing rows from a table.
+[SUPPORTED] UPDATE modifies values in existing table rows.
+[CONTRADICTED] UPDATE can only create new tables.
+[SUPPORTED] DELETE removes rows from a table, optionally filtered by WHERE.
+[CONTRADICTED] DELETE always removes the table definition itself.
+[SUPPORTED] TRUNCATE quickly removes all rows from a table without dropping the table.
+[CONTRADICTED] TRUNCATE removes the table definition from the database.
+[SUPPORTED] CREATE TABLE defines a new table.
+[CONTRADICTED] CREATE TABLE removes an existing table.
+[SUPPORTED] ALTER TABLE changes the definition of an existing table.
+[CONTRADICTED] ALTER TABLE only retrieves rows from a table.
+[SUPPORTED] DROP TABLE removes a table definition and its data.
+[CONTRADICTED] DROP TABLE only deletes selected rows while keeping the table.
+[SUPPORTED] Database indexes can speed up retrieval but add storage and maintenance overhead.
+[CONTRADICTED] Database indexes guarantee faster execution for every query without any cost.
+[SUPPORTED] A transaction groups database operations into a unit of work.
+[CONTRADICTED] A transaction cannot contain more than one SQL statement.
+[SUPPORTED] COMMIT makes the changes of the current transaction permanent.
+[CONTRADICTED] COMMIT undoes the changes of the current transaction.
+[SUPPORTED] ROLLBACK aborts the current transaction and discards its uncommitted changes.
+[CONTRADICTED] ROLLBACK permanently saves all uncommitted changes.
+[SUPPORTED] A standard SQL view stores a query definition rather than independently storing its result rows.
+[CONTRADICTED] A standard SQL view always stores a separate physical copy of its result rows.
+[SUPPORTED] In SQL, NULL represents a missing or unknown value, not numeric zero.
+[CONTRADICTED] In SQL, NULL is exactly the same as numeric zero.
+[SUPPORTED] UNION combines results of compatible queries and removes duplicate result rows by default.
+[CONTRADICTED] UNION preserves all duplicate result rows by default.
+[SUPPORTED] UNION ALL combines compatible query results without removing duplicate rows.
+[CONTRADICTED] UNION ALL removes duplicate rows by default.
+[SUPPORTED] A subquery is a query nested inside another SQL statement.
+[CONTRADICTED] A subquery cannot appear within another SQL query.
+[SUPPORTED] ACID stands for Atomicity, Consistency, Isolation, and Durability.
+[CONTRADICTED] ACID stands for Accuracy, Clustering, Indexing, and Duplication.
+[SUPPORTED] SQL stands for Structured Query Language.
+[CONTRADICTED] SQL stands for Sequential Query Logic.
+[INSUFFICIENT_EVIDENCE] The private database system ZephyrSQL-900 uses a quantum optimizer.
+[INSUFFICIENT_EVIDENCE] A confidential company invented SQL-Next in 2026.
+[INSUFFICIENT_EVIDENCE] The unreleased DB engine NebulaCore achieved 99.99% accuracy.

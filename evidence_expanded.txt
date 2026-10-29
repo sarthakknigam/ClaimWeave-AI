@@ -1,0 +1,270 @@
+CLAIMWEAVE AI EXPANDED KNOWLEDGE BASE
+89 distinct curated claims, 890 repeated entries. Source URLs are references, not proof of per-claim independent verification.
+
+[1] The solar system has eight planets.
+Source: NASA Solar System Facts | https://science.nasa.gov/solar-system/solar-system-facts/
+
+[2] Mercury and Venus have no natural moons.
+Source: NASA Solar System Facts | https://science.nasa.gov/solar-system/solar-system-facts/
+
+[3] The solar system is located in the Milky Way galaxy.
+Source: NASA Solar System Facts | https://science.nasa.gov/solar-system/solar-system-facts/
+
+[4] The solar system formed about 4.6 billion years ago.
+Source: NASA Solar System Facts | https://science.nasa.gov/solar-system/solar-system-facts/
+
+[5] Jupiter and Saturn are gas giants.
+Source: NASA Solar System Facts | https://science.nasa.gov/solar-system/solar-system-facts/
+
+[6] Uranus and Neptune are ice giants.
+Source: NASA Solar System Facts | https://science.nasa.gov/solar-system/solar-system-facts/
+
+[7] Pluto is classified as a dwarf planet.
+Source: NASA JPL Planets | https://ssd.jpl.nasa.gov/planets/index.html
+
+[8] Python lists are mutable.
+Source: Python Built-in Types | https://docs.python.org/3/library/stdtypes.html
+
+[9] Python tuples are immutable sequences.
+Source: Python Built-in Types | https://docs.python.org/3/library/stdtypes.html
+
+[10] Python dictionaries map hashable keys to values.
+Source: Python Built-in Types | https://docs.python.org/3/library/stdtypes.html
+
+[11] The capital of India is New Delhi.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[12] The capital of France is Paris.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[13] The capital of Japan is Tokyo.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[14] The capital of Germany is Berlin.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[15] The capital of Italy is Rome.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[16] The capital of Spain is Madrid.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[17] The capital of Portugal is Lisbon.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[18] The capital of Canada is Ottawa.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[19] The capital of Australia is Canberra.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[20] The capital of Brazil is Brasília.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[21] The capital of Argentina is Buenos Aires.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[22] The capital of Mexico is Mexico City.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[23] The capital of Egypt is Cairo.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[24] The capital of Kenya is Nairobi.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[25] The capital of Nigeria is Abuja.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[26] The capital of South Korea is Seoul.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[27] The capital of Thailand is Bangkok.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[28] The capital of Nepal is Kathmandu.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[29] The capital of Bangladesh is Dhaka.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[30] The capital of Pakistan is Islamabad.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[31] The capital of China is Beijing.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[32] The capital of Russia is Moscow.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[33] The capital of Turkey is Ankara.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[34] The capital of Greece is Athens.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[35] The capital of Norway is Oslo.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[36] The capital of Sweden is Stockholm.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[37] The capital of Finland is Helsinki.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[38] The capital of Denmark is Copenhagen.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[39] The capital of Poland is Warsaw.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[40] The capital of Austria is Vienna.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[41] The capital of Belgium is Brussels.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[42] The capital of Netherlands is Amsterdam.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[43] The capital of Ireland is Dublin.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[44] The capital of New Zealand is Wellington.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[45] The capital of Saudi Arabia is Riyadh.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[46] The capital of United Arab Emirates is Abu Dhabi.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[47] The capital of Qatar is Doha.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[48] The capital of Vietnam is Hanoi.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[49] The capital of Indonesia is Jakarta.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[50] The capital of Philippines is Manila.
+Source: National capitals reference list (verify disputed and changing capitals) | https://en.wikipedia.org/wiki/List_of_national_capitals
+
+[51] Microsoft was founded by Bill Gates and Paul Allen.
+Source: Microsoft historical founding information | https://news.microsoft.com/
+
+[52] Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne.
+Source: Apple historical founding information | https://www.apple.com/newsroom/
+
+[53] Google was founded by Larry Page and Sergey Brin.
+Source: Google historical founding information | https://about.google/our-story/
+
+[54] Amazon was founded by Jeff Bezos.
+Source: Amazon historical founding information | https://www.aboutamazon.com/about-us
+
+[55] Facebook was founded by Mark Zuckerberg and his Harvard co-founders.
+Source: Facebook historical founding information | https://about.meta.com/
+
+[56] Netflix was founded by Reed Hastings and Marc Randolph.
+Source: Netflix historical founding information | https://about.netflix.com/
+
+[57] NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem.
+Source: NVIDIA historical founding information | https://www.nvidia.com/en-us/about-nvidia/
+
+[58] OpenAI was founded by a founding group including Sam Altman, Greg Brockman, Ilya Sutskever, and others.
+Source: OpenAI historical founding information | https://openai.com/about/
+
+[59] Tesla Motors was founded by Martin Eberhard and Marc Tarpenning.
+Source: Tesla Motors historical founding information | https://www.tesla.com/about
+
+[60] Machine learning is a subset of artificial intelligence.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[61] Supervised learning uses labeled training examples.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[62] Unsupervised learning can discover patterns in unlabeled data.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[63] Reinforcement learning uses rewards as feedback.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[64] Classification predicts categories.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[65] Regression predicts continuous numerical values.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[66] K-means is a clustering algorithm.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[67] Decision trees can be used for classification.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[68] Random forests combine multiple decision trees.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[69] Overfitting occurs when a model learns training-specific patterns that generalize poorly.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[70] A confusion matrix summarizes classification predictions against actual labels.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[71] Precision is the fraction of predicted positives that are truly positive.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[72] Recall is the fraction of actual positives correctly identified.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[73] The F1 score is the harmonic mean of precision and recall.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[74] Gradient descent is an optimization algorithm.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[75] A neural network can contain multiple layers.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[76] Convolutional neural networks are commonly used for image tasks.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[77] Transformers use attention mechanisms.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[78] A validation set helps with model selection and tuning.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[79] Data leakage can cause overly optimistic evaluation results.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[80] PCA is a dimensionality reduction technique.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[81] SVM stands for support vector machine.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[82] KNN stands for k-nearest neighbors.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[83] Backpropagation computes gradients used to train neural networks.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[84] Generative AI can produce new text and images.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[85] Large language models can generate inaccurate statements.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[86] Retrieval-augmented generation uses retrieved information to inform generation.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[87] Embeddings represent information as numerical vectors.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[88] A training dataset is used to fit model parameters.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+
+[89] An epoch is one complete pass through a training dataset.
+Source: IBM machine learning overview and documentation | https://www.ibm.com/think/topics/machine-learning
+

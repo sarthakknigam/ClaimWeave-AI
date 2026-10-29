@@ -1,0 +1,1224 @@
+[
+  {
+    "supported": "The solar system has eight planets.",
+    "contradicted": "The solar system has nine planets.",
+    "source_title": "NASA Solar System Facts",
+    "source_url": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "supported": "Mercury and Venus have no natural moons.",
+    "contradicted": "Mercury has two natural moons.",
+    "source_title": "NASA Solar System Facts",
+    "source_url": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "supported": "The solar system is located in the Milky Way galaxy.",
+    "contradicted": "The solar system is located in the Andromeda galaxy.",
+    "source_title": "NASA Solar System Facts",
+    "source_url": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "supported": "The solar system formed about 4.6 billion years ago.",
+    "contradicted": "The solar system formed about 46 million years ago.",
+    "source_title": "NASA Solar System Facts",
+    "source_url": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "supported": "Jupiter and Saturn are gas giants.",
+    "contradicted": "Jupiter and Saturn are terrestrial planets.",
+    "source_title": "NASA Solar System Facts",
+    "source_url": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "supported": "Uranus and Neptune are ice giants.",
+    "contradicted": "Uranus and Neptune are gas-free rocky planets.",
+    "source_title": "NASA Solar System Facts",
+    "source_url": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "supported": "Pluto is classified as a dwarf planet.",
+    "contradicted": "Pluto is one of the eight planets.",
+    "source_title": "NASA JPL Planets",
+    "source_url": "https://ssd.jpl.nasa.gov/planets/index.html"
+  },
+  {
+    "supported": "Python lists are mutable.",
+    "contradicted": "Python lists are immutable.",
+    "source_title": "Python Built-in Types",
+    "source_url": "https://docs.python.org/3/library/stdtypes.html"
+  },
+  {
+    "supported": "Python tuples are immutable sequences.",
+    "contradicted": "Python tuples are mutable sequences.",
+    "source_title": "Python Built-in Types",
+    "source_url": "https://docs.python.org/3/library/stdtypes.html"
+  },
+  {
+    "supported": "Python dictionaries map hashable keys to values.",
+    "contradicted": "Python dictionaries cannot store key-value pairs.",
+    "source_title": "Python Built-in Types",
+    "source_url": "https://docs.python.org/3/library/stdtypes.html"
+  },
+  {
+    "supported": "The capital of India is New Delhi.",
+    "contradicted": "The capital of India is Mumbai.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of France is Paris.",
+    "contradicted": "The capital of France is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Japan is Tokyo.",
+    "contradicted": "The capital of Japan is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Germany is Berlin.",
+    "contradicted": "The capital of Germany is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Italy is Rome.",
+    "contradicted": "The capital of Italy is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Spain is Madrid.",
+    "contradicted": "The capital of Spain is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Portugal is Lisbon.",
+    "contradicted": "The capital of Portugal is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Canada is Ottawa.",
+    "contradicted": "The capital of Canada is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Australia is Canberra.",
+    "contradicted": "The capital of Australia is Sydney.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Brazil is Brasília.",
+    "contradicted": "The capital of Brazil is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Argentina is Buenos Aires.",
+    "contradicted": "The capital of Argentina is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Mexico is Mexico City.",
+    "contradicted": "The capital of Mexico is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Egypt is Cairo.",
+    "contradicted": "The capital of Egypt is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Kenya is Nairobi.",
+    "contradicted": "The capital of Kenya is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Nigeria is Abuja.",
+    "contradicted": "The capital of Nigeria is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of South Korea is Seoul.",
+    "contradicted": "The capital of South Korea is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Thailand is Bangkok.",
+    "contradicted": "The capital of Thailand is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Nepal is Kathmandu.",
+    "contradicted": "The capital of Nepal is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Bangladesh is Dhaka.",
+    "contradicted": "The capital of Bangladesh is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Pakistan is Islamabad.",
+    "contradicted": "The capital of Pakistan is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of China is Beijing.",
+    "contradicted": "The capital of China is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Russia is Moscow.",
+    "contradicted": "The capital of Russia is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Turkey is Ankara.",
+    "contradicted": "The capital of Turkey is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Greece is Athens.",
+    "contradicted": "The capital of Greece is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Norway is Oslo.",
+    "contradicted": "The capital of Norway is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Sweden is Stockholm.",
+    "contradicted": "The capital of Sweden is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Finland is Helsinki.",
+    "contradicted": "The capital of Finland is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Denmark is Copenhagen.",
+    "contradicted": "The capital of Denmark is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Poland is Warsaw.",
+    "contradicted": "The capital of Poland is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Austria is Vienna.",
+    "contradicted": "The capital of Austria is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Belgium is Brussels.",
+    "contradicted": "The capital of Belgium is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Netherlands is Amsterdam.",
+    "contradicted": "The capital of Netherlands is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Ireland is Dublin.",
+    "contradicted": "The capital of Ireland is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of New Zealand is Wellington.",
+    "contradicted": "The capital of New Zealand is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Saudi Arabia is Riyadh.",
+    "contradicted": "The capital of Saudi Arabia is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of United Arab Emirates is Abu Dhabi.",
+    "contradicted": "The capital of United Arab Emirates is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Qatar is Doha.",
+    "contradicted": "The capital of Qatar is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Vietnam is Hanoi.",
+    "contradicted": "The capital of Vietnam is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Indonesia is Jakarta.",
+    "contradicted": "The capital of Indonesia is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "The capital of Philippines is Manila.",
+    "contradicted": "The capital of Philippines is London.",
+    "source_title": "National capitals reference list (verify disputed and changing capitals)",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  },
+  {
+    "supported": "Microsoft was founded by Bill Gates and Paul Allen.",
+    "contradicted": "Microsoft was founded by Steve Jobs.",
+    "source_title": "Microsoft historical founding information",
+    "source_url": "https://news.microsoft.com/"
+  },
+  {
+    "supported": "Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne.",
+    "contradicted": "Apple was founded by Bill Gates.",
+    "source_title": "Apple historical founding information",
+    "source_url": "https://www.apple.com/newsroom/"
+  },
+  {
+    "supported": "Google was founded by Larry Page and Sergey Brin.",
+    "contradicted": "Google was founded by Mark Zuckerberg.",
+    "source_title": "Google historical founding information",
+    "source_url": "https://about.google/our-story/"
+  },
+  {
+    "supported": "Amazon was founded by Jeff Bezos.",
+    "contradicted": "Amazon was founded by Elon Musk.",
+    "source_title": "Amazon historical founding information",
+    "source_url": "https://www.aboutamazon.com/about-us"
+  },
+  {
+    "supported": "Facebook was founded by Mark Zuckerberg and his Harvard co-founders.",
+    "contradicted": "Facebook was founded by Bill Gates.",
+    "source_title": "Facebook historical founding information",
+    "source_url": "https://about.meta.com/"
+  },
+  {
+    "supported": "Netflix was founded by Reed Hastings and Marc Randolph.",
+    "contradicted": "Netflix was founded by Jeff Bezos.",
+    "source_title": "Netflix historical founding information",
+    "source_url": "https://about.netflix.com/"
+  },
+  {
+    "supported": "NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem.",
+    "contradicted": "NVIDIA was founded by Steve Jobs.",
+    "source_title": "NVIDIA historical founding information",
+    "source_url": "https://www.nvidia.com/en-us/about-nvidia/"
+  },
+  {
+    "supported": "OpenAI was founded by a founding group including Sam Altman, Greg Brockman, Ilya Sutskever, and others.",
+    "contradicted": "OpenAI was founded by Jeff Bezos.",
+    "source_title": "OpenAI historical founding information",
+    "source_url": "https://openai.com/about/"
+  },
+  {
+    "supported": "Tesla Motors was founded by Martin Eberhard and Marc Tarpenning.",
+    "contradicted": "Tesla Motors was founded by Bill Gates.",
+    "source_title": "Tesla Motors historical founding information",
+    "source_url": "https://www.tesla.com/about"
+  },
+  {
+    "supported": "Machine learning is a subset of artificial intelligence.",
+    "contradicted": "Machine learning is unrelated to artificial intelligence.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Supervised learning uses labeled training examples.",
+    "contradicted": "Supervised learning never uses labeled training examples.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Unsupervised learning can discover patterns in unlabeled data.",
+    "contradicted": "Unsupervised learning requires every example to have a target label.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Reinforcement learning uses rewards as feedback.",
+    "contradicted": "Reinforcement learning never uses rewards.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Classification predicts categories.",
+    "contradicted": "Classification always predicts continuous numerical values.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Regression predicts continuous numerical values.",
+    "contradicted": "Regression can only predict categorical class labels.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "K-means is a clustering algorithm.",
+    "contradicted": "K-means is a supervised classification algorithm.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Decision trees can be used for classification.",
+    "contradicted": "Decision trees cannot be used for classification.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Random forests combine multiple decision trees.",
+    "contradicted": "Random forests contain only one decision tree.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Overfitting occurs when a model learns training-specific patterns that generalize poorly.",
+    "contradicted": "Overfitting guarantees excellent performance on unseen data.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "A confusion matrix summarizes classification predictions against actual labels.",
+    "contradicted": "A confusion matrix is only used for regression.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Precision is the fraction of predicted positives that are truly positive.",
+    "contradicted": "Precision is the fraction of predicted negatives that are truly negative.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Recall is the fraction of actual positives correctly identified.",
+    "contradicted": "Recall is the fraction of actual negatives correctly identified.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "The F1 score is the harmonic mean of precision and recall.",
+    "contradicted": "The F1 score is the arithmetic mean of accuracy and loss.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Gradient descent is an optimization algorithm.",
+    "contradicted": "Gradient descent is a database indexing algorithm.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "A neural network can contain multiple layers.",
+    "contradicted": "A neural network can never contain multiple layers.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Convolutional neural networks are commonly used for image tasks.",
+    "contradicted": "Convolutional neural networks cannot process images.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Transformers use attention mechanisms.",
+    "contradicted": "Transformers never use attention mechanisms.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "A validation set helps with model selection and tuning.",
+    "contradicted": "A validation set must always be used as the final untouched test set.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Data leakage can cause overly optimistic evaluation results.",
+    "contradicted": "Data leakage always improves real-world generalization.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "PCA is a dimensionality reduction technique.",
+    "contradicted": "PCA is a reinforcement learning algorithm.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "SVM stands for support vector machine.",
+    "contradicted": "SVM stands for sequential vision memory.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "KNN stands for k-nearest neighbors.",
+    "contradicted": "KNN stands for kernel neural network.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Backpropagation computes gradients used to train neural networks.",
+    "contradicted": "Backpropagation is a method for sorting arrays.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Generative AI can produce new text and images.",
+    "contradicted": "Generative AI cannot generate text.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Large language models can generate inaccurate statements.",
+    "contradicted": "Large language models always produce factually correct statements.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Retrieval-augmented generation uses retrieved information to inform generation.",
+    "contradicted": "Retrieval-augmented generation never retrieves external information.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "Embeddings represent information as numerical vectors.",
+    "contradicted": "Embeddings are always plain English sentences.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "A training dataset is used to fit model parameters.",
+    "contradicted": "A training dataset is never used to fit model parameters.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "An epoch is one complete pass through a training dataset.",
+    "contradicted": "An epoch always means exactly one gradient update.",
+    "source_title": "IBM machine learning overview and documentation",
+    "source_url": "https://www.ibm.com/think/topics/machine-learning"
+  },
+  {
+    "supported": "SELECT retrieves rows from a table or query result.",
+    "contradicted": "SELECT is used only to delete rows.",
+    "source_title": "PostgreSQL Official Documentation — SELECT",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html"
+  },
+  {
+    "supported": "WHERE filters rows according to a condition before grouping.",
+    "contradicted": "WHERE filters groups after aggregation.",
+    "source_title": "PostgreSQL Official Documentation — WHERE",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html"
+  },
+  {
+    "supported": "ORDER BY sorts query results according to specified expressions.",
+    "contradicted": "ORDER BY permanently sorts rows stored in a table.",
+    "source_title": "PostgreSQL Official Documentation — ORDER BY",
+    "source_url": "https://www.postgresql.org/docs/current/queries-order.html"
+  },
+  {
+    "supported": "LIMIT restricts the maximum number of rows returned by a query.",
+    "contradicted": "LIMIT increases the number of rows returned by a query.",
+    "source_title": "PostgreSQL Official Documentation — LIMIT",
+    "source_url": "https://www.postgresql.org/docs/current/queries-limit.html"
+  },
+  {
+    "supported": "SELECT DISTINCT eliminates duplicate rows from a query result.",
+    "contradicted": "SELECT DISTINCT preserves all duplicate result rows.",
+    "source_title": "PostgreSQL Official Documentation — DISTINCT",
+    "source_url": "https://www.postgresql.org/docs/current/queries-select-lists.html"
+  },
+  {
+    "supported": "GROUP BY combines rows sharing grouping values into groups.",
+    "contradicted": "GROUP BY always sorts the final query output.",
+    "source_title": "PostgreSQL Official Documentation — GROUP BY",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html"
+  },
+  {
+    "supported": "HAVING filters groups after grouping and aggregation.",
+    "contradicted": "HAVING is only used to filter individual rows before grouping.",
+    "source_title": "PostgreSQL Official Documentation — HAVING",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html"
+  },
+  {
+    "supported": "INNER JOIN returns rows that satisfy the join condition from both joined tables.",
+    "contradicted": "INNER JOIN always returns all unmatched rows from both tables.",
+    "source_title": "PostgreSQL Official Documentation — INNER JOIN",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html"
+  },
+  {
+    "supported": "LEFT JOIN preserves unmatched rows from the left table, filling right-side columns with NULL.",
+    "contradicted": "LEFT JOIN discards every unmatched row from the left table.",
+    "source_title": "PostgreSQL Official Documentation — LEFT JOIN",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html"
+  },
+  {
+    "supported": "RIGHT JOIN preserves unmatched rows from the right table.",
+    "contradicted": "RIGHT JOIN preserves only unmatched rows from the left table.",
+    "source_title": "PostgreSQL Official Documentation — RIGHT JOIN",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html"
+  },
+  {
+    "supported": "FULL OUTER JOIN includes unmatched rows from either joined table.",
+    "contradicted": "FULL OUTER JOIN excludes all unmatched rows.",
+    "source_title": "PostgreSQL Official Documentation — FULL OUTER JOIN",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html"
+  },
+  {
+    "supported": "CROSS JOIN produces the Cartesian product of its input tables.",
+    "contradicted": "CROSS JOIN returns only rows with matching key values.",
+    "source_title": "PostgreSQL Official Documentation — CROSS JOIN",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html"
+  },
+  {
+    "supported": "COUNT(*) counts input rows, including rows containing NULL values.",
+    "contradicted": "COUNT(*) excludes all rows containing any NULL column.",
+    "source_title": "PostgreSQL Official Documentation — COUNT",
+    "source_url": "https://www.postgresql.org/docs/current/functions-aggregate.html"
+  },
+  {
+    "supported": "SUM computes the sum of non-NULL input values.",
+    "contradicted": "SUM counts the number of non-NULL input rows.",
+    "source_title": "PostgreSQL Official Documentation — SUM",
+    "source_url": "https://www.postgresql.org/docs/current/functions-aggregate.html"
+  },
+  {
+    "supported": "AVG computes the arithmetic mean of non-NULL input values.",
+    "contradicted": "AVG always includes NULL values as zeros.",
+    "source_title": "PostgreSQL Official Documentation — AVG",
+    "source_url": "https://www.postgresql.org/docs/current/functions-aggregate.html"
+  },
+  {
+    "supported": "MIN returns the smallest non-NULL input value.",
+    "contradicted": "MIN returns the largest input value.",
+    "source_title": "PostgreSQL Official Documentation — MIN",
+    "source_url": "https://www.postgresql.org/docs/current/functions-aggregate.html"
+  },
+  {
+    "supported": "MAX returns the largest non-NULL input value.",
+    "contradicted": "MAX returns the smallest input value.",
+    "source_title": "PostgreSQL Official Documentation — MAX",
+    "source_url": "https://www.postgresql.org/docs/current/functions-aggregate.html"
+  },
+  {
+    "supported": "A primary key uniquely identifies rows and requires unique non-NULL values.",
+    "contradicted": "A primary key permits duplicate and NULL key values.",
+    "source_title": "PostgreSQL Official Documentation — PRIMARY KEY",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html"
+  },
+  {
+    "supported": "A foreign key enforces referential integrity between referencing and referenced columns.",
+    "contradicted": "A foreign key requires every value to be unique within the referencing table.",
+    "source_title": "PostgreSQL Official Documentation — FOREIGN KEY",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html"
+  },
+  {
+    "supported": "A UNIQUE constraint prevents duplicate non-NULL values in its constrained key.",
+    "contradicted": "A UNIQUE constraint permits unlimited duplicate non-NULL key values.",
+    "source_title": "PostgreSQL Official Documentation — UNIQUE",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html"
+  },
+  {
+    "supported": "A NOT NULL constraint prevents NULL values in a column.",
+    "contradicted": "A NOT NULL constraint requires every value in the column to be NULL.",
+    "source_title": "PostgreSQL Official Documentation — NOT NULL",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html"
+  },
+  {
+    "supported": "A CHECK constraint validates a Boolean condition for inserted or updated rows.",
+    "contradicted": "A CHECK constraint is used only to sort query results.",
+    "source_title": "PostgreSQL Official Documentation — CHECK",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html"
+  },
+  {
+    "supported": "INSERT adds new rows to a table.",
+    "contradicted": "INSERT removes existing rows from a table.",
+    "source_title": "PostgreSQL Official Documentation — INSERT",
+    "source_url": "https://www.postgresql.org/docs/current/sql-insert.html"
+  },
+  {
+    "supported": "UPDATE modifies values in existing table rows.",
+    "contradicted": "UPDATE can only create new tables.",
+    "source_title": "PostgreSQL Official Documentation — UPDATE",
+    "source_url": "https://www.postgresql.org/docs/current/sql-update.html"
+  },
+  {
+    "supported": "DELETE removes rows from a table, optionally filtered by WHERE.",
+    "contradicted": "DELETE always removes the table definition itself.",
+    "source_title": "PostgreSQL Official Documentation — DELETE",
+    "source_url": "https://www.postgresql.org/docs/current/sql-delete.html"
+  },
+  {
+    "supported": "TRUNCATE quickly removes all rows from a table without dropping the table.",
+    "contradicted": "TRUNCATE removes the table definition from the database.",
+    "source_title": "PostgreSQL Official Documentation — TRUNCATE",
+    "source_url": "https://www.postgresql.org/docs/current/sql-truncate.html"
+  },
+  {
+    "supported": "CREATE TABLE defines a new table.",
+    "contradicted": "CREATE TABLE removes an existing table.",
+    "source_title": "PostgreSQL Official Documentation — CREATE TABLE",
+    "source_url": "https://www.postgresql.org/docs/current/sql-createtable.html"
+  },
+  {
+    "supported": "ALTER TABLE changes the definition of an existing table.",
+    "contradicted": "ALTER TABLE only retrieves rows from a table.",
+    "source_title": "PostgreSQL Official Documentation — ALTER TABLE",
+    "source_url": "https://www.postgresql.org/docs/current/sql-altertable.html"
+  },
+  {
+    "supported": "DROP TABLE removes a table definition and its data.",
+    "contradicted": "DROP TABLE only deletes selected rows while keeping the table.",
+    "source_title": "PostgreSQL Official Documentation — DROP TABLE",
+    "source_url": "https://www.postgresql.org/docs/current/sql-droptable.html"
+  },
+  {
+    "supported": "Database indexes can speed up retrieval but add storage and maintenance overhead.",
+    "contradicted": "Database indexes guarantee faster execution for every query without any cost.",
+    "source_title": "PostgreSQL Official Documentation — INDEX",
+    "source_url": "https://www.postgresql.org/docs/current/indexes-intro.html"
+  },
+  {
+    "supported": "A transaction groups database operations into a unit of work.",
+    "contradicted": "A transaction cannot contain more than one SQL statement.",
+    "source_title": "PostgreSQL Official Documentation — TRANSACTION",
+    "source_url": "https://www.postgresql.org/docs/current/tutorial-transactions.html"
+  },
+  {
+    "supported": "COMMIT makes the changes of the current transaction permanent.",
+    "contradicted": "COMMIT undoes the changes of the current transaction.",
+    "source_title": "PostgreSQL Official Documentation — COMMIT",
+    "source_url": "https://www.postgresql.org/docs/current/sql-commit.html"
+  },
+  {
+    "supported": "ROLLBACK aborts the current transaction and discards its uncommitted changes.",
+    "contradicted": "ROLLBACK permanently saves all uncommitted changes.",
+    "source_title": "PostgreSQL Official Documentation — ROLLBACK",
+    "source_url": "https://www.postgresql.org/docs/current/sql-rollback.html"
+  },
+  {
+    "supported": "A standard SQL view stores a query definition rather than independently storing its result rows.",
+    "contradicted": "A standard SQL view always stores a separate physical copy of its result rows.",
+    "source_title": "PostgreSQL Official Documentation — VIEW",
+    "source_url": "https://www.postgresql.org/docs/current/sql-createview.html"
+  },
+  {
+    "supported": "In SQL, NULL represents a missing or unknown value, not numeric zero.",
+    "contradicted": "In SQL, NULL is exactly the same as numeric zero.",
+    "source_title": "PostgreSQL Official Documentation — NULL",
+    "source_url": "https://www.postgresql.org/docs/current/functions-comparison.html"
+  },
+  {
+    "supported": "UNION combines results of compatible queries and removes duplicate result rows by default.",
+    "contradicted": "UNION preserves all duplicate result rows by default.",
+    "source_title": "PostgreSQL Official Documentation — UNION",
+    "source_url": "https://www.postgresql.org/docs/current/queries-union.html"
+  },
+  {
+    "supported": "UNION ALL combines compatible query results without removing duplicate rows.",
+    "contradicted": "UNION ALL removes duplicate rows by default.",
+    "source_title": "PostgreSQL Official Documentation — UNION ALL",
+    "source_url": "https://www.postgresql.org/docs/current/queries-union.html"
+  },
+  {
+    "supported": "A subquery is a query nested inside another SQL statement.",
+    "contradicted": "A subquery cannot appear within another SQL query.",
+    "source_title": "PostgreSQL Official Documentation — SUBQUERY",
+    "source_url": "https://www.postgresql.org/docs/current/functions-subquery.html"
+  },
+  {
+    "supported": "ACID stands for Atomicity, Consistency, Isolation, and Durability.",
+    "contradicted": "ACID stands for Accuracy, Clustering, Indexing, and Duplication.",
+    "source_title": "PostgreSQL Official Documentation — ACID",
+    "source_url": "https://www.postgresql.org/docs/current/tutorial-transactions.html"
+  },
+  {
+    "supported": "SQL stands for Structured Query Language.",
+    "contradicted": "SQL stands for Sequential Query Logic.",
+    "source_title": "PostgreSQL Official Documentation — SQL",
+    "source_url": "https://www.postgresql.org/docs/current/tutorial-sql.html"
+  },
+  {
+    "supported": "HAVING filters grouped results after aggregation.",
+    "contradicted": "HAVING filters rows before grouping.",
+    "source_title": "PostgreSQL Official Documentation — HAVING",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html",
+    "category": "SQL / Database",
+    "explanation": "HAVING applies conditions to groups, whereas WHERE filters input rows."
+  },
+  {
+    "supported": "WHERE filters rows before aggregation and grouping.",
+    "contradicted": "WHERE filters grouped results after aggregation.",
+    "source_title": "PostgreSQL Official Documentation — WHERE",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html",
+    "category": "SQL / Database",
+    "explanation": "WHERE applies conditions to individual input rows."
+  },
+  {
+    "supported": "GROUP BY groups rows sharing the same values in specified expressions.",
+    "contradicted": "GROUP BY always sorts results in ascending order.",
+    "source_title": "PostgreSQL Official Documentation — GROUP BY",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html",
+    "category": "SQL / Database",
+    "explanation": "Grouping does not guarantee output order."
+  },
+  {
+    "supported": "ORDER BY sorts query results by specified expressions.",
+    "contradicted": "ORDER BY removes duplicate rows from a query.",
+    "source_title": "PostgreSQL Official Documentation — ORDER BY",
+    "source_url": "https://www.postgresql.org/docs/current/queries-order.html",
+    "category": "SQL / Database",
+    "explanation": "ORDER BY controls result ordering; DISTINCT handles duplicates."
+  },
+  {
+    "supported": "DISTINCT removes duplicate result rows from a SELECT result.",
+    "contradicted": "DISTINCT keeps all duplicate result rows.",
+    "source_title": "PostgreSQL Official Documentation — DISTINCT",
+    "source_url": "https://www.postgresql.org/docs/current/queries-select-lists.html",
+    "category": "SQL / Database",
+    "explanation": "DISTINCT eliminates duplicate output rows."
+  },
+  {
+    "supported": "LIMIT restricts the maximum number of result rows returned.",
+    "contradicted": "LIMIT increases the number of result rows without restriction.",
+    "source_title": "PostgreSQL Official Documentation — LIMIT",
+    "source_url": "https://www.postgresql.org/docs/current/queries-limit.html",
+    "category": "SQL / Database",
+    "explanation": "LIMIT places a cap on returned rows."
+  },
+  {
+    "supported": "OFFSET skips a specified number of result rows.",
+    "contradicted": "OFFSET guarantees the returned rows are sorted.",
+    "source_title": "PostgreSQL Official Documentation — OFFSET",
+    "source_url": "https://www.postgresql.org/docs/current/queries-limit.html",
+    "category": "SQL / Database",
+    "explanation": "OFFSET skips rows; ordering requires ORDER BY."
+  },
+  {
+    "supported": "INNER JOIN returns rows satisfying the join condition from both sides.",
+    "contradicted": "INNER JOIN includes all unmatched rows from both tables.",
+    "source_title": "PostgreSQL Official Documentation — INNER JOIN",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html",
+    "category": "SQL / Database",
+    "explanation": "Inner joins exclude unmatched rows."
+  },
+  {
+    "supported": "LEFT JOIN preserves every row from the left input and fills unmatched right columns with NULL.",
+    "contradicted": "LEFT JOIN discards every unmatched row from the left input.",
+    "source_title": "PostgreSQL Official Documentation — LEFT JOIN",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html",
+    "category": "SQL / Database",
+    "explanation": "Unmatched left rows are retained with null-extended right columns."
+  },
+  {
+    "supported": "FULL OUTER JOIN includes unmatched rows from either input, with NULLs for missing columns.",
+    "contradicted": "FULL OUTER JOIN returns only rows matching on both sides.",
+    "source_title": "PostgreSQL Official Documentation — FULL OUTER JOIN",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html",
+    "category": "SQL / Database",
+    "explanation": "Full joins preserve unmatched rows from both sides."
+  },
+  {
+    "supported": "CROSS JOIN produces the Cartesian product of its two inputs.",
+    "contradicted": "CROSS JOIN only returns rows with matching key values.",
+    "source_title": "PostgreSQL Official Documentation — CROSS JOIN",
+    "source_url": "https://www.postgresql.org/docs/current/queries-table-expressions.html",
+    "category": "SQL / Database",
+    "explanation": "Cross joins pair every left row with every right row."
+  },
+  {
+    "supported": "COUNT(*) counts all rows in a group, including rows containing NULL values.",
+    "contradicted": "COUNT(*) ignores rows containing NULL values.",
+    "source_title": "PostgreSQL Official Documentation — COUNT",
+    "source_url": "https://www.postgresql.org/docs/current/functions-aggregate.html",
+    "category": "SQL / Database",
+    "explanation": "COUNT(*) counts rows rather than non-null values."
+  },
+  {
+    "supported": "COUNT(column_name) counts non-NULL values in that column.",
+    "contradicted": "COUNT(column_name) counts NULL values in that column.",
+    "source_title": "PostgreSQL Official Documentation — COUNT",
+    "source_url": "https://www.postgresql.org/docs/current/functions-aggregate.html",
+    "category": "SQL / Database",
+    "explanation": "COUNT(expression) ignores NULL evaluation results."
+  },
+  {
+    "supported": "AVG ignores NULL input values when calculating an average.",
+    "contradicted": "AVG treats every NULL input as zero.",
+    "source_title": "PostgreSQL Official Documentation — AVG",
+    "source_url": "https://www.postgresql.org/docs/current/functions-aggregate.html",
+    "category": "SQL / Database",
+    "explanation": "AVG uses non-null inputs."
+  },
+  {
+    "supported": "SUM computes the total of non-NULL numeric input values.",
+    "contradicted": "SUM counts the number of table columns.",
+    "source_title": "PostgreSQL Official Documentation — SUM",
+    "source_url": "https://www.postgresql.org/docs/current/functions-aggregate.html",
+    "category": "SQL / Database",
+    "explanation": "SUM aggregates numeric values."
+  },
+  {
+    "supported": "A PRIMARY KEY requires uniqueness and disallows NULL key values.",
+    "contradicted": "A PRIMARY KEY allows duplicate and NULL key values.",
+    "source_title": "PostgreSQL Official Documentation — PRIMARY KEY",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+    "category": "SQL / Database",
+    "explanation": "Primary keys combine unique and non-null requirements."
+  },
+  {
+    "supported": "A FOREIGN KEY enforces referential integrity between related tables.",
+    "contradicted": "A FOREIGN KEY guarantees that values are unique in its own column.",
+    "source_title": "PostgreSQL Official Documentation — FOREIGN KEY",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+    "category": "SQL / Database",
+    "explanation": "Foreign keys constrain references to eligible target rows."
+  },
+  {
+    "supported": "A UNIQUE constraint prevents duplicate non-NULL values in a constrained column.",
+    "contradicted": "A UNIQUE constraint permits duplicate non-NULL values without restriction.",
+    "source_title": "PostgreSQL Official Documentation — UNIQUE",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+    "category": "SQL / Database",
+    "explanation": "By default PostgreSQL UNIQUE treats nulls as distinct."
+  },
+  {
+    "supported": "NOT NULL prevents NULL values in a constrained column.",
+    "contradicted": "NOT NULL requires every value in the column to be NULL.",
+    "source_title": "PostgreSQL Official Documentation — NOT NULL",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+    "category": "SQL / Database",
+    "explanation": "NOT NULL rejects null entries."
+  },
+  {
+    "supported": "CHECK constraints require inserted or updated rows to satisfy a Boolean condition.",
+    "contradicted": "CHECK constraints automatically create a new table.",
+    "source_title": "PostgreSQL Official Documentation — CHECK",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+    "category": "SQL / Database",
+    "explanation": "CHECK validates row values against a condition."
+  },
+  {
+    "supported": "INSERT adds rows to a table.",
+    "contradicted": "INSERT removes all rows from a table.",
+    "source_title": "PostgreSQL Official Documentation — INSERT",
+    "source_url": "https://www.postgresql.org/docs/current/sql-insert.html",
+    "category": "SQL / Database",
+    "explanation": "INSERT writes new rows."
+  },
+  {
+    "supported": "UPDATE modifies existing rows that satisfy its condition.",
+    "contradicted": "UPDATE can only create new tables.",
+    "source_title": "PostgreSQL Official Documentation — UPDATE",
+    "source_url": "https://www.postgresql.org/docs/current/sql-update.html",
+    "category": "SQL / Database",
+    "explanation": "UPDATE changes existing row values."
+  },
+  {
+    "supported": "DELETE removes rows matching a condition.",
+    "contradicted": "DELETE changes only the column names of a table.",
+    "source_title": "PostgreSQL Official Documentation — DELETE",
+    "source_url": "https://www.postgresql.org/docs/current/sql-delete.html",
+    "category": "SQL / Database",
+    "explanation": "DELETE removes matching records."
+  },
+  {
+    "supported": "TRUNCATE quickly removes all rows from specified tables.",
+    "contradicted": "TRUNCATE removes only rows matching a WHERE condition.",
+    "source_title": "PostgreSQL Official Documentation — TRUNCATE",
+    "source_url": "https://www.postgresql.org/docs/current/sql-truncate.html",
+    "category": "SQL / Database",
+    "explanation": "TRUNCATE does not support a WHERE clause."
+  },
+  {
+    "supported": "A transaction groups statements into a unit that either commits or rolls back.",
+    "contradicted": "A transaction can never be rolled back.",
+    "source_title": "PostgreSQL Official Documentation — Transactions",
+    "source_url": "https://www.postgresql.org/docs/current/tutorial-transactions.html",
+    "category": "SQL / Database",
+    "explanation": "Transactions provide atomic groups of operations."
+  },
+  {
+    "supported": "A database view is a named query that can be referenced like a table.",
+    "contradicted": "A regular database view always stores a separate physical copy of its rows.",
+    "source_title": "PostgreSQL Official Documentation — VIEW",
+    "source_url": "https://www.postgresql.org/docs/current/sql-createview.html",
+    "category": "SQL / Database",
+    "explanation": "Ordinary views store queries rather than materialized row copies."
+  },
+  {
+    "supported": "A materialized view stores query results and can be refreshed.",
+    "contradicted": "A materialized view never stores query results.",
+    "source_title": "PostgreSQL Official Documentation — MATERIALIZED VIEW",
+    "source_url": "https://www.postgresql.org/docs/current/sql-creatematerializedview.html",
+    "category": "SQL / Database",
+    "explanation": "Materialized views persist query results."
+  },
+  {
+    "supported": "UNION combines query results and removes duplicate rows by default.",
+    "contradicted": "UNION preserves duplicate rows by default.",
+    "source_title": "PostgreSQL Official Documentation — UNION",
+    "source_url": "https://www.postgresql.org/docs/current/queries-union.html",
+    "category": "SQL / Database",
+    "explanation": "UNION is distinct unless ALL is specified."
+  },
+  {
+    "supported": "UNION ALL combines query results while retaining duplicates.",
+    "contradicted": "UNION ALL always removes duplicates.",
+    "source_title": "PostgreSQL Official Documentation — UNION ALL",
+    "source_url": "https://www.postgresql.org/docs/current/queries-union.html",
+    "category": "SQL / Database",
+    "explanation": "ALL preserves duplicates."
+  },
+  {
+    "supported": "INTERSECT returns rows present in both query results.",
+    "contradicted": "INTERSECT returns rows found only in the first query.",
+    "source_title": "PostgreSQL Official Documentation — INTERSECT",
+    "source_url": "https://www.postgresql.org/docs/current/queries-union.html",
+    "category": "SQL / Database",
+    "explanation": "INTERSECT computes common rows."
+  },
+  {
+    "supported": "EXCEPT returns rows in the first query result that are absent from the second.",
+    "contradicted": "EXCEPT returns only rows shared by both query results.",
+    "source_title": "PostgreSQL Official Documentation — EXCEPT",
+    "source_url": "https://www.postgresql.org/docs/current/queries-union.html",
+    "category": "SQL / Database",
+    "explanation": "EXCEPT computes a set difference."
+  },
+  {
+    "supported": "IS NULL tests whether an expression is NULL.",
+    "contradicted": "An expression equals NULL using = NULL in standard SQL comparisons.",
+    "source_title": "PostgreSQL Official Documentation — NULL",
+    "source_url": "https://www.postgresql.org/docs/current/functions-comparison.html",
+    "category": "SQL / Database",
+    "explanation": "NULL requires IS NULL for a null test."
+  },
+  {
+    "supported": "COALESCE returns the first non-NULL argument.",
+    "contradicted": "COALESCE always returns its last argument.",
+    "source_title": "PostgreSQL Official Documentation — COALESCE",
+    "source_url": "https://www.postgresql.org/docs/current/functions-conditional.html",
+    "category": "SQL / Database",
+    "explanation": "COALESCE evaluates arguments until a non-null result."
+  },
+  {
+    "supported": "CASE evaluates conditional expressions and returns a matching result.",
+    "contradicted": "CASE is a command that deletes database tables.",
+    "source_title": "PostgreSQL Official Documentation — CASE",
+    "source_url": "https://www.postgresql.org/docs/current/functions-conditional.html",
+    "category": "SQL / Database",
+    "explanation": "CASE provides conditional expression logic."
+  },
+  {
+    "supported": "EXISTS tests whether a subquery returns at least one row.",
+    "contradicted": "EXISTS returns true only when a subquery returns no rows.",
+    "source_title": "PostgreSQL Official Documentation — EXISTS",
+    "source_url": "https://www.postgresql.org/docs/current/functions-subquery.html",
+    "category": "SQL / Database",
+    "explanation": "EXISTS is true when at least one row is produced."
+  },
+  {
+    "supported": "A B-tree index can support equality and range comparisons.",
+    "contradicted": "A B-tree index can only support full-text search.",
+    "source_title": "PostgreSQL Official Documentation — Indexes",
+    "source_url": "https://www.postgresql.org/docs/current/indexes-types.html",
+    "category": "SQL / Database",
+    "explanation": "B-tree is the default general-purpose index method."
+  },
+  {
+    "supported": "An index can improve some queries but adds maintenance overhead to writes.",
+    "contradicted": "Adding indexes always speeds up every INSERT operation.",
+    "source_title": "PostgreSQL Official Documentation — Indexes",
+    "source_url": "https://www.postgresql.org/docs/current/indexes-intro.html",
+    "category": "SQL / Database",
+    "explanation": "Indexes have storage and write-maintenance costs."
+  },
+  {
+    "supported": "ROW_NUMBER assigns sequential numbers to rows within a window partition.",
+    "contradicted": "ROW_NUMBER returns the total number of columns in a table.",
+    "source_title": "PostgreSQL Official Documentation — ROW_NUMBER",
+    "source_url": "https://www.postgresql.org/docs/current/functions-window.html",
+    "category": "SQL / Database",
+    "explanation": "ROW_NUMBER is a window function."
+  },
+  {
+    "supported": "RANK can assign the same rank to tied rows and leave gaps afterward.",
+    "contradicted": "RANK always assigns unique consecutive ranks even when values tie.",
+    "source_title": "PostgreSQL Official Documentation — RANK",
+    "source_url": "https://www.postgresql.org/docs/current/functions-window.html",
+    "category": "SQL / Database",
+    "explanation": "RANK leaves gaps after peer groups."
+  },
+  {
+    "supported": "DENSE_RANK assigns the same rank to ties without leaving rank gaps.",
+    "contradicted": "DENSE_RANK always leaves rank gaps after ties.",
+    "source_title": "PostgreSQL Official Documentation — DENSE_RANK",
+    "source_url": "https://www.postgresql.org/docs/current/functions-window.html",
+    "category": "SQL / Database",
+    "explanation": "Dense rank does not skip rank values."
+  },
+  {
+    "supported": "A common table expression can be introduced using WITH.",
+    "contradicted": "WITH is only used to delete databases.",
+    "source_title": "PostgreSQL Official Documentation — WITH",
+    "source_url": "https://www.postgresql.org/docs/current/queries-with.html",
+    "category": "SQL / Database",
+    "explanation": "WITH defines named subqueries for a statement."
+  },
+  {
+    "supported": "A recursive CTE can reference its own output to process hierarchical data.",
+    "contradicted": "Recursive CTEs cannot refer to their own output.",
+    "source_title": "PostgreSQL Official Documentation — Recursive CTE",
+    "source_url": "https://www.postgresql.org/docs/current/queries-with.html",
+    "category": "SQL / Database",
+    "explanation": "WITH RECURSIVE supports self-reference."
+  },
+  {
+    "supported": "PostgreSQL supports JSONB for storing JSON data in a decomposed binary representation.",
+    "contradicted": "PostgreSQL does not support JSON data types.",
+    "source_title": "PostgreSQL Official Documentation — JSONB",
+    "source_url": "https://www.postgresql.org/docs/current/datatype-json.html",
+    "category": "SQL / Database",
+    "explanation": "JSONB is a PostgreSQL JSON type."
+  },
+  {
+    "supported": "ILIKE performs case-insensitive pattern matching in PostgreSQL.",
+    "contradicted": "ILIKE performs only case-sensitive pattern matching in PostgreSQL.",
+    "source_title": "PostgreSQL Official Documentation — ILIKE",
+    "source_url": "https://www.postgresql.org/docs/current/functions-matching.html",
+    "category": "SQL / Database",
+    "explanation": "ILIKE is PostgreSQL case-insensitive LIKE."
+  },
+  {
+    "supported": "A schema is a namespace that contains database objects such as tables.",
+    "contradicted": "A schema is always the same thing as a database server.",
+    "source_title": "PostgreSQL Official Documentation — Schemas",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-schemas.html",
+    "category": "SQL / Database",
+    "explanation": "Schemas organize objects within a database."
+  },
+  {
+    "supported": "PostgreSQL uses MVCC to allow transactions to see consistent snapshots.",
+    "contradicted": "PostgreSQL has no multiversion concurrency control.",
+    "source_title": "PostgreSQL Official Documentation — MVCC",
+    "source_url": "https://www.postgresql.org/docs/current/mvcc-intro.html",
+    "category": "SQL / Database",
+    "explanation": "MVCC provides transaction visibility through row versions."
+  },
+  {
+    "supported": "The default PostgreSQL transaction isolation level is READ COMMITTED.",
+    "contradicted": "The default PostgreSQL transaction isolation level is SERIALIZABLE.",
+    "source_title": "PostgreSQL Official Documentation — Isolation",
+    "source_url": "https://www.postgresql.org/docs/current/transaction-iso.html",
+    "category": "SQL / Database",
+    "explanation": "READ COMMITTED is the default isolation level."
+  },
+  {
+    "supported": "A deadlock can occur when transactions wait for locks held by one another.",
+    "contradicted": "Deadlocks cannot occur in relational databases.",
+    "source_title": "PostgreSQL Official Documentation — Deadlocks",
+    "source_url": "https://www.postgresql.org/docs/current/explicit-locking.html",
+    "category": "SQL / Database",
+    "explanation": "Circular lock waits can create deadlocks."
+  },
+  {
+    "supported": "A SAVEPOINT allows partial rollback within a transaction.",
+    "contradicted": "A SAVEPOINT permanently commits the entire transaction.",
+    "source_title": "PostgreSQL Official Documentation — SAVEPOINT",
+    "source_url": "https://www.postgresql.org/docs/current/sql-savepoint.html",
+    "category": "SQL / Database",
+    "explanation": "Savepoints mark positions for partial rollback."
+  },
+  {
+    "supported": "A SQL injection vulnerability can occur when untrusted input is concatenated into executable SQL.",
+    "contradicted": "Concatenating untrusted input into SQL always prevents SQL injection.",
+    "source_title": "PostgreSQL Official Documentation — SQL Security",
+    "source_url": "https://www.postgresql.org/docs/current/sql-syntax-lexical.html",
+    "category": "SQL / Database",
+    "explanation": "Use bound parameters to separate data from SQL syntax."
+  },
+  {
+    "supported": "PostgreSQL supports prepared statements through PREPARE and EXECUTE.",
+    "contradicted": "PostgreSQL does not support prepared statements.",
+    "source_title": "PostgreSQL Official Documentation — Prepared Statements",
+    "source_url": "https://www.postgresql.org/docs/current/sql-prepare.html",
+    "category": "SQL / Database",
+    "explanation": "Prepared statements support parameterized execution."
+  },
+  {
+    "supported": "A composite primary key consists of multiple columns.",
+    "contradicted": "A composite primary key must contain exactly one column.",
+    "source_title": "PostgreSQL Official Documentation — PRIMARY KEY",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+    "category": "SQL / Database",
+    "explanation": "Multiple columns can form a composite key."
+  },
+  {
+    "supported": "ON DELETE CASCADE can delete referencing rows when a referenced row is deleted.",
+    "contradicted": "ON DELETE CASCADE prevents every referenced row from being deleted.",
+    "source_title": "PostgreSQL Official Documentation — FOREIGN KEY",
+    "source_url": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+    "category": "SQL / Database",
+    "explanation": "Cascade propagates a deletion to dependent rows."
+  },
+  {
+    "supported": "A correlated subquery references values from an outer query.",
+    "contradicted": "A correlated subquery cannot reference columns from an outer query.",
+    "source_title": "PostgreSQL Official Documentation — Subqueries",
+    "source_url": "https://www.postgresql.org/docs/current/functions-subquery.html",
+    "category": "SQL / Database",
+    "explanation": "Correlated subqueries use outer query values."
+  },
+  {
+    "supported": "Normalization reduces certain data redundancies and update anomalies.",
+    "contradicted": "Database normalization is intended to maximize unnecessary data duplication.",
+    "source_title": "PostgreSQL Official Documentation — Normalization",
+    "source_url": "https://www.postgresql.org/docs/current/ddl.html",
+    "category": "SQL / Database",
+    "explanation": "Normalization organizes relations to reduce anomalies."
+  },
+  {
+    "supported": "PostgreSQL supports INSERT ... ON CONFLICT for handling uniqueness conflicts.",
+    "contradicted": "PostgreSQL does not support any ON CONFLICT clause.",
+    "source_title": "PostgreSQL Official Documentation — UPSERT",
+    "source_url": "https://www.postgresql.org/docs/current/sql-insert.html",
+    "category": "SQL / Database",
+    "explanation": "ON CONFLICT offers alternative actions on constraint conflicts."
+  }
+]

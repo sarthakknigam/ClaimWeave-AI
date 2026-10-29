@@ -1,0 +1,268 @@
+id,claim,expected_label
+T001,The solar system has eight planets.,SUPPORTED
+T002,The solar system has nine planets.,CONTRADICTED
+T003,The private experiment code for record 1 is ZX-104.,INSUFFICIENT EVIDENCE
+T004,Mercury and Venus have no natural moons.,SUPPORTED
+T005,Mercury has two natural moons.,CONTRADICTED
+T006,The private experiment code for record 2 is ZX-105.,INSUFFICIENT EVIDENCE
+T007,The solar system is located in the Milky Way galaxy.,SUPPORTED
+T008,The solar system is located in the Andromeda galaxy.,CONTRADICTED
+T009,The private experiment code for record 3 is ZX-106.,INSUFFICIENT EVIDENCE
+T010,The solar system formed about 4.6 billion years ago.,SUPPORTED
+T011,The solar system formed about 46 million years ago.,CONTRADICTED
+T012,The private experiment code for record 4 is ZX-107.,INSUFFICIENT EVIDENCE
+T013,Jupiter and Saturn are gas giants.,SUPPORTED
+T014,Jupiter and Saturn are terrestrial planets.,CONTRADICTED
+T015,The private experiment code for record 5 is ZX-108.,INSUFFICIENT EVIDENCE
+T016,Uranus and Neptune are ice giants.,SUPPORTED
+T017,Uranus and Neptune are gas-free rocky planets.,CONTRADICTED
+T018,The private experiment code for record 6 is ZX-109.,INSUFFICIENT EVIDENCE
+T019,Pluto is classified as a dwarf planet.,SUPPORTED
+T020,Pluto is one of the eight planets.,CONTRADICTED
+T021,The private experiment code for record 7 is ZX-110.,INSUFFICIENT EVIDENCE
+T022,Python lists are mutable.,SUPPORTED
+T023,Python lists are immutable.,CONTRADICTED
+T024,The private experiment code for record 8 is ZX-111.,INSUFFICIENT EVIDENCE
+T025,Python tuples are immutable sequences.,SUPPORTED
+T026,Python tuples are mutable sequences.,CONTRADICTED
+T027,The private experiment code for record 9 is ZX-112.,INSUFFICIENT EVIDENCE
+T028,Python dictionaries map hashable keys to values.,SUPPORTED
+T029,Python dictionaries cannot store key-value pairs.,CONTRADICTED
+T030,The private experiment code for record 10 is ZX-113.,INSUFFICIENT EVIDENCE
+T031,The capital of India is New Delhi.,SUPPORTED
+T032,The capital of India is Mumbai.,CONTRADICTED
+T033,The private experiment code for record 11 is ZX-114.,INSUFFICIENT EVIDENCE
+T034,The capital of France is Paris.,SUPPORTED
+T035,The capital of France is London.,CONTRADICTED
+T036,The private experiment code for record 12 is ZX-115.,INSUFFICIENT EVIDENCE
+T037,The capital of Japan is Tokyo.,SUPPORTED
+T038,The capital of Japan is London.,CONTRADICTED
+T039,The private experiment code for record 13 is ZX-116.,INSUFFICIENT EVIDENCE
+T040,The capital of Germany is Berlin.,SUPPORTED
+T041,The capital of Germany is London.,CONTRADICTED
+T042,The private experiment code for record 14 is ZX-117.,INSUFFICIENT EVIDENCE
+T043,The capital of Italy is Rome.,SUPPORTED
+T044,The capital of Italy is London.,CONTRADICTED
+T045,The private experiment code for record 15 is ZX-118.,INSUFFICIENT EVIDENCE
+T046,The capital of Spain is Madrid.,SUPPORTED
+T047,The capital of Spain is London.,CONTRADICTED
+T048,The private experiment code for record 16 is ZX-119.,INSUFFICIENT EVIDENCE
+T049,The capital of Portugal is Lisbon.,SUPPORTED
+T050,The capital of Portugal is London.,CONTRADICTED
+T051,The private experiment code for record 17 is ZX-120.,INSUFFICIENT EVIDENCE
+T052,The capital of Canada is Ottawa.,SUPPORTED
+T053,The capital of Canada is London.,CONTRADICTED
+T054,The private experiment code for record 18 is ZX-121.,INSUFFICIENT EVIDENCE
+T055,The capital of Australia is Canberra.,SUPPORTED
+T056,The capital of Australia is Sydney.,CONTRADICTED
+T057,The private experiment code for record 19 is ZX-122.,INSUFFICIENT EVIDENCE
+T058,The capital of Brazil is Brasília.,SUPPORTED
+T059,The capital of Brazil is London.,CONTRADICTED
+T060,The private experiment code for record 20 is ZX-123.,INSUFFICIENT EVIDENCE
+T061,The capital of Argentina is Buenos Aires.,SUPPORTED
+T062,The capital of Argentina is London.,CONTRADICTED
+T063,The private experiment code for record 21 is ZX-124.,INSUFFICIENT EVIDENCE
+T064,The capital of Mexico is Mexico City.,SUPPORTED
+T065,The capital of Mexico is London.,CONTRADICTED
+T066,The private experiment code for record 22 is ZX-125.,INSUFFICIENT EVIDENCE
+T067,The capital of Egypt is Cairo.,SUPPORTED
+T068,The capital of Egypt is London.,CONTRADICTED
+T069,The private experiment code for record 23 is ZX-126.,INSUFFICIENT EVIDENCE
+T070,The capital of Kenya is Nairobi.,SUPPORTED
+T071,The capital of Kenya is London.,CONTRADICTED
+T072,The private experiment code for record 24 is ZX-127.,INSUFFICIENT EVIDENCE
+T073,The capital of Nigeria is Abuja.,SUPPORTED
+T074,The capital of Nigeria is London.,CONTRADICTED
+T075,The private experiment code for record 25 is ZX-128.,INSUFFICIENT EVIDENCE
+T076,The capital of South Korea is Seoul.,SUPPORTED
+T077,The capital of South Korea is London.,CONTRADICTED
+T078,The private experiment code for record 26 is ZX-129.,INSUFFICIENT EVIDENCE
+T079,The capital of Thailand is Bangkok.,SUPPORTED
+T080,The capital of Thailand is London.,CONTRADICTED
+T081,The private experiment code for record 27 is ZX-130.,INSUFFICIENT EVIDENCE
+T082,The capital of Nepal is Kathmandu.,SUPPORTED
+T083,The capital of Nepal is London.,CONTRADICTED
+T084,The private experiment code for record 28 is ZX-131.,INSUFFICIENT EVIDENCE
+T085,The capital of Bangladesh is Dhaka.,SUPPORTED
+T086,The capital of Bangladesh is London.,CONTRADICTED
+T087,The private experiment code for record 29 is ZX-132.,INSUFFICIENT EVIDENCE
+T088,The capital of Pakistan is Islamabad.,SUPPORTED
+T089,The capital of Pakistan is London.,CONTRADICTED
+T090,The private experiment code for record 30 is ZX-133.,INSUFFICIENT EVIDENCE
+T091,The capital of China is Beijing.,SUPPORTED
+T092,The capital of China is London.,CONTRADICTED
+T093,The private experiment code for record 31 is ZX-134.,INSUFFICIENT EVIDENCE
+T094,The capital of Russia is Moscow.,SUPPORTED
+T095,The capital of Russia is London.,CONTRADICTED
+T096,The private experiment code for record 32 is ZX-135.,INSUFFICIENT EVIDENCE
+T097,The capital of Turkey is Ankara.,SUPPORTED
+T098,The capital of Turkey is London.,CONTRADICTED
+T099,The private experiment code for record 33 is ZX-136.,INSUFFICIENT EVIDENCE
+T100,The capital of Greece is Athens.,SUPPORTED
+T101,The capital of Greece is London.,CONTRADICTED
+T102,The private experiment code for record 34 is ZX-137.,INSUFFICIENT EVIDENCE
+T103,The capital of Norway is Oslo.,SUPPORTED
+T104,The capital of Norway is London.,CONTRADICTED
+T105,The private experiment code for record 35 is ZX-138.,INSUFFICIENT EVIDENCE
+T106,The capital of Sweden is Stockholm.,SUPPORTED
+T107,The capital of Sweden is London.,CONTRADICTED
+T108,The private experiment code for record 36 is ZX-139.,INSUFFICIENT EVIDENCE
+T109,The capital of Finland is Helsinki.,SUPPORTED
+T110,The capital of Finland is London.,CONTRADICTED
+T111,The private experiment code for record 37 is ZX-140.,INSUFFICIENT EVIDENCE
+T112,The capital of Denmark is Copenhagen.,SUPPORTED
+T113,The capital of Denmark is London.,CONTRADICTED
+T114,The private experiment code for record 38 is ZX-141.,INSUFFICIENT EVIDENCE
+T115,The capital of Poland is Warsaw.,SUPPORTED
+T116,The capital of Poland is London.,CONTRADICTED
+T117,The private experiment code for record 39 is ZX-142.,INSUFFICIENT EVIDENCE
+T118,The capital of Austria is Vienna.,SUPPORTED
+T119,The capital of Austria is London.,CONTRADICTED
+T120,The private experiment code for record 40 is ZX-143.,INSUFFICIENT EVIDENCE
+T121,The capital of Belgium is Brussels.,SUPPORTED
+T122,The capital of Belgium is London.,CONTRADICTED
+T123,The private experiment code for record 41 is ZX-144.,INSUFFICIENT EVIDENCE
+T124,The capital of Netherlands is Amsterdam.,SUPPORTED
+T125,The capital of Netherlands is London.,CONTRADICTED
+T126,The private experiment code for record 42 is ZX-145.,INSUFFICIENT EVIDENCE
+T127,The capital of Ireland is Dublin.,SUPPORTED
+T128,The capital of Ireland is London.,CONTRADICTED
+T129,The private experiment code for record 43 is ZX-146.,INSUFFICIENT EVIDENCE
+T130,The capital of New Zealand is Wellington.,SUPPORTED
+T131,The capital of New Zealand is London.,CONTRADICTED
+T132,The private experiment code for record 44 is ZX-147.,INSUFFICIENT EVIDENCE
+T133,The capital of Saudi Arabia is Riyadh.,SUPPORTED
+T134,The capital of Saudi Arabia is London.,CONTRADICTED
+T135,The private experiment code for record 45 is ZX-148.,INSUFFICIENT EVIDENCE
+T136,The capital of United Arab Emirates is Abu Dhabi.,SUPPORTED
+T137,The capital of United Arab Emirates is London.,CONTRADICTED
+T138,The private experiment code for record 46 is ZX-149.,INSUFFICIENT EVIDENCE
+T139,The capital of Qatar is Doha.,SUPPORTED
+T140,The capital of Qatar is London.,CONTRADICTED
+T141,The private experiment code for record 47 is ZX-150.,INSUFFICIENT EVIDENCE
+T142,The capital of Vietnam is Hanoi.,SUPPORTED
+T143,The capital of Vietnam is London.,CONTRADICTED
+T144,The private experiment code for record 48 is ZX-151.,INSUFFICIENT EVIDENCE
+T145,The capital of Indonesia is Jakarta.,SUPPORTED
+T146,The capital of Indonesia is London.,CONTRADICTED
+T147,The private experiment code for record 49 is ZX-152.,INSUFFICIENT EVIDENCE
+T148,The capital of Philippines is Manila.,SUPPORTED
+T149,The capital of Philippines is London.,CONTRADICTED
+T150,The private experiment code for record 50 is ZX-153.,INSUFFICIENT EVIDENCE
+T151,Microsoft was founded by Bill Gates and Paul Allen.,SUPPORTED
+T152,Microsoft was founded by Steve Jobs.,CONTRADICTED
+T153,The private experiment code for record 51 is ZX-154.,INSUFFICIENT EVIDENCE
+T154,"Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne.",SUPPORTED
+T155,Apple was founded by Bill Gates.,CONTRADICTED
+T156,The private experiment code for record 52 is ZX-155.,INSUFFICIENT EVIDENCE
+T157,Google was founded by Larry Page and Sergey Brin.,SUPPORTED
+T158,Google was founded by Mark Zuckerberg.,CONTRADICTED
+T159,The private experiment code for record 53 is ZX-156.,INSUFFICIENT EVIDENCE
+T160,Amazon was founded by Jeff Bezos.,SUPPORTED
+T161,Amazon was founded by Elon Musk.,CONTRADICTED
+T162,The private experiment code for record 54 is ZX-157.,INSUFFICIENT EVIDENCE
+T163,Facebook was founded by Mark Zuckerberg and his Harvard co-founders.,SUPPORTED
+T164,Facebook was founded by Bill Gates.,CONTRADICTED
+T165,The private experiment code for record 55 is ZX-158.,INSUFFICIENT EVIDENCE
+T166,Netflix was founded by Reed Hastings and Marc Randolph.,SUPPORTED
+T167,Netflix was founded by Jeff Bezos.,CONTRADICTED
+T168,The private experiment code for record 56 is ZX-159.,INSUFFICIENT EVIDENCE
+T169,"NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem.",SUPPORTED
+T170,NVIDIA was founded by Steve Jobs.,CONTRADICTED
+T171,The private experiment code for record 57 is ZX-160.,INSUFFICIENT EVIDENCE
+T172,"OpenAI was founded by a founding group including Sam Altman, Greg Brockman, Ilya Sutskever, and others.",SUPPORTED
+T173,OpenAI was founded by Jeff Bezos.,CONTRADICTED
+T174,The private experiment code for record 58 is ZX-161.,INSUFFICIENT EVIDENCE
+T175,Tesla Motors was founded by Martin Eberhard and Marc Tarpenning.,SUPPORTED
+T176,Tesla Motors was founded by Bill Gates.,CONTRADICTED
+T177,The private experiment code for record 59 is ZX-162.,INSUFFICIENT EVIDENCE
+T178,Machine learning is a subset of artificial intelligence.,SUPPORTED
+T179,Machine learning is unrelated to artificial intelligence.,CONTRADICTED
+T180,The private experiment code for record 60 is ZX-163.,INSUFFICIENT EVIDENCE
+T181,Supervised learning uses labeled training examples.,SUPPORTED
+T182,Supervised learning never uses labeled training examples.,CONTRADICTED
+T183,The private experiment code for record 61 is ZX-164.,INSUFFICIENT EVIDENCE
+T184,Unsupervised learning can discover patterns in unlabeled data.,SUPPORTED
+T185,Unsupervised learning requires every example to have a target label.,CONTRADICTED
+T186,The private experiment code for record 62 is ZX-165.,INSUFFICIENT EVIDENCE
+T187,Reinforcement learning uses rewards as feedback.,SUPPORTED
+T188,Reinforcement learning never uses rewards.,CONTRADICTED
+T189,The private experiment code for record 63 is ZX-166.,INSUFFICIENT EVIDENCE
+T190,Classification predicts categories.,SUPPORTED
+T191,Classification always predicts continuous numerical values.,CONTRADICTED
+T192,The private experiment code for record 64 is ZX-167.,INSUFFICIENT EVIDENCE
+T193,Regression predicts continuous numerical values.,SUPPORTED
+T194,Regression can only predict categorical class labels.,CONTRADICTED
+T195,The private experiment code for record 65 is ZX-168.,INSUFFICIENT EVIDENCE
+T196,K-means is a clustering algorithm.,SUPPORTED
+T197,K-means is a supervised classification algorithm.,CONTRADICTED
+T198,The private experiment code for record 66 is ZX-169.,INSUFFICIENT EVIDENCE
+T199,Decision trees can be used for classification.,SUPPORTED
+T200,Decision trees cannot be used for classification.,CONTRADICTED
+T201,The private experiment code for record 67 is ZX-170.,INSUFFICIENT EVIDENCE
+T202,Random forests combine multiple decision trees.,SUPPORTED
+T203,Random forests contain only one decision tree.,CONTRADICTED
+T204,The private experiment code for record 68 is ZX-171.,INSUFFICIENT EVIDENCE
+T205,Overfitting occurs when a model learns training-specific patterns that generalize poorly.,SUPPORTED
+T206,Overfitting guarantees excellent performance on unseen data.,CONTRADICTED
+T207,The private experiment code for record 69 is ZX-172.,INSUFFICIENT EVIDENCE
+T208,A confusion matrix summarizes classification predictions against actual labels.,SUPPORTED
+T209,A confusion matrix is only used for regression.,CONTRADICTED
+T210,The private experiment code for record 70 is ZX-173.,INSUFFICIENT EVIDENCE
+T211,Precision is the fraction of predicted positives that are truly positive.,SUPPORTED
+T212,Precision is the fraction of predicted negatives that are truly negative.,CONTRADICTED
+T213,The private experiment code for record 71 is ZX-174.,INSUFFICIENT EVIDENCE
+T214,Recall is the fraction of actual positives correctly identified.,SUPPORTED
+T215,Recall is the fraction of actual negatives correctly identified.,CONTRADICTED
+T216,The private experiment code for record 72 is ZX-175.,INSUFFICIENT EVIDENCE
+T217,The F1 score is the harmonic mean of precision and recall.,SUPPORTED
+T218,The F1 score is the arithmetic mean of accuracy and loss.,CONTRADICTED
+T219,The private experiment code for record 73 is ZX-176.,INSUFFICIENT EVIDENCE
+T220,Gradient descent is an optimization algorithm.,SUPPORTED
+T221,Gradient descent is a database indexing algorithm.,CONTRADICTED
+T222,The private experiment code for record 74 is ZX-177.,INSUFFICIENT EVIDENCE
+T223,A neural network can contain multiple layers.,SUPPORTED
+T224,A neural network can never contain multiple layers.,CONTRADICTED
+T225,The private experiment code for record 75 is ZX-178.,INSUFFICIENT EVIDENCE
+T226,Convolutional neural networks are commonly used for image tasks.,SUPPORTED
+T227,Convolutional neural networks cannot process images.,CONTRADICTED
+T228,The private experiment code for record 76 is ZX-179.,INSUFFICIENT EVIDENCE
+T229,Transformers use attention mechanisms.,SUPPORTED
+T230,Transformers never use attention mechanisms.,CONTRADICTED
+T231,The private experiment code for record 77 is ZX-180.,INSUFFICIENT EVIDENCE
+T232,A validation set helps with model selection and tuning.,SUPPORTED
+T233,A validation set must always be used as the final untouched test set.,CONTRADICTED
+T234,The private experiment code for record 78 is ZX-181.,INSUFFICIENT EVIDENCE
+T235,Data leakage can cause overly optimistic evaluation results.,SUPPORTED
+T236,Data leakage always improves real-world generalization.,CONTRADICTED
+T237,The private experiment code for record 79 is ZX-182.,INSUFFICIENT EVIDENCE
+T238,PCA is a dimensionality reduction technique.,SUPPORTED
+T239,PCA is a reinforcement learning algorithm.,CONTRADICTED
+T240,The private experiment code for record 80 is ZX-183.,INSUFFICIENT EVIDENCE
+T241,SVM stands for support vector machine.,SUPPORTED
+T242,SVM stands for sequential vision memory.,CONTRADICTED
+T243,The private experiment code for record 81 is ZX-184.,INSUFFICIENT EVIDENCE
+T244,KNN stands for k-nearest neighbors.,SUPPORTED
+T245,KNN stands for kernel neural network.,CONTRADICTED
+T246,The private experiment code for record 82 is ZX-185.,INSUFFICIENT EVIDENCE
+T247,Backpropagation computes gradients used to train neural networks.,SUPPORTED
+T248,Backpropagation is a method for sorting arrays.,CONTRADICTED
+T249,The private experiment code for record 83 is ZX-186.,INSUFFICIENT EVIDENCE
+T250,Generative AI can produce new text and images.,SUPPORTED
+T251,Generative AI cannot generate text.,CONTRADICTED
+T252,The private experiment code for record 84 is ZX-187.,INSUFFICIENT EVIDENCE
+T253,Large language models can generate inaccurate statements.,SUPPORTED
+T254,Large language models always produce factually correct statements.,CONTRADICTED
+T255,The private experiment code for record 85 is ZX-188.,INSUFFICIENT EVIDENCE
+T256,Retrieval-augmented generation uses retrieved information to inform generation.,SUPPORTED
+T257,Retrieval-augmented generation never retrieves external information.,CONTRADICTED
+T258,The private experiment code for record 86 is ZX-189.,INSUFFICIENT EVIDENCE
+T259,Embeddings represent information as numerical vectors.,SUPPORTED
+T260,Embeddings are always plain English sentences.,CONTRADICTED
+T261,The private experiment code for record 87 is ZX-190.,INSUFFICIENT EVIDENCE
+T262,A training dataset is used to fit model parameters.,SUPPORTED
+T263,A training dataset is never used to fit model parameters.,CONTRADICTED
+T264,The private experiment code for record 88 is ZX-191.,INSUFFICIENT EVIDENCE
+T265,An epoch is one complete pass through a training dataset.,SUPPORTED
+T266,An epoch always means exactly one gradient update.,CONTRADICTED
+T267,The private experiment code for record 89 is ZX-192.,INSUFFICIENT EVIDENCE

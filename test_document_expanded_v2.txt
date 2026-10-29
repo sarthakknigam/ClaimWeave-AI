@@ -1,0 +1,383 @@
+CLAIMWEAVE AI — LABELED DEMONSTRATION CLAIMS
+Expected labels are for dataset review; model outputs may differ.
+
+[SUPPORTED] The solar system has eight planets.
+[CONTRADICTED] The solar system has nine planets.
+[SUPPORTED] Mercury and Venus have no natural moons.
+[CONTRADICTED] Mercury has two natural moons.
+[SUPPORTED] The solar system is located in the Milky Way galaxy.
+[CONTRADICTED] The solar system is located in the Andromeda galaxy.
+[SUPPORTED] The solar system formed about 4.6 billion years ago.
+[CONTRADICTED] The solar system formed about 46 million years ago.
+[SUPPORTED] Jupiter and Saturn are gas giants.
+[CONTRADICTED] Jupiter and Saturn are terrestrial planets.
+[SUPPORTED] Uranus and Neptune are ice giants.
+[CONTRADICTED] Uranus and Neptune are gas-free rocky planets.
+[SUPPORTED] Pluto is classified as a dwarf planet.
+[CONTRADICTED] Pluto is one of the eight planets.
+[SUPPORTED] Python lists are mutable.
+[CONTRADICTED] Python lists are immutable.
+[SUPPORTED] Python tuples are immutable sequences.
+[CONTRADICTED] Python tuples are mutable sequences.
+[SUPPORTED] Python dictionaries map hashable keys to values.
+[CONTRADICTED] Python dictionaries cannot store key-value pairs.
+[SUPPORTED] The capital of India is New Delhi.
+[CONTRADICTED] The capital of India is Mumbai.
+[SUPPORTED] The capital of France is Paris.
+[CONTRADICTED] The capital of France is London.
+[SUPPORTED] The capital of Japan is Tokyo.
+[CONTRADICTED] The capital of Japan is London.
+[SUPPORTED] The capital of Germany is Berlin.
+[CONTRADICTED] The capital of Germany is London.
+[SUPPORTED] The capital of Italy is Rome.
+[CONTRADICTED] The capital of Italy is London.
+[SUPPORTED] The capital of Spain is Madrid.
+[CONTRADICTED] The capital of Spain is London.
+[SUPPORTED] The capital of Portugal is Lisbon.
+[CONTRADICTED] The capital of Portugal is London.
+[SUPPORTED] The capital of Canada is Ottawa.
+[CONTRADICTED] The capital of Canada is London.
+[SUPPORTED] The capital of Australia is Canberra.
+[CONTRADICTED] The capital of Australia is Sydney.
+[SUPPORTED] The capital of Brazil is Brasília.
+[CONTRADICTED] The capital of Brazil is London.
+[SUPPORTED] The capital of Argentina is Buenos Aires.
+[CONTRADICTED] The capital of Argentina is London.
+[SUPPORTED] The capital of Mexico is Mexico City.
+[CONTRADICTED] The capital of Mexico is London.
+[SUPPORTED] The capital of Egypt is Cairo.
+[CONTRADICTED] The capital of Egypt is London.
+[SUPPORTED] The capital of Kenya is Nairobi.
+[CONTRADICTED] The capital of Kenya is London.
+[SUPPORTED] The capital of Nigeria is Abuja.
+[CONTRADICTED] The capital of Nigeria is London.
+[SUPPORTED] The capital of South Korea is Seoul.
+[CONTRADICTED] The capital of South Korea is London.
+[SUPPORTED] The capital of Thailand is Bangkok.
+[CONTRADICTED] The capital of Thailand is London.
+[SUPPORTED] The capital of Nepal is Kathmandu.
+[CONTRADICTED] The capital of Nepal is London.
+[SUPPORTED] The capital of Bangladesh is Dhaka.
+[CONTRADICTED] The capital of Bangladesh is London.
+[SUPPORTED] The capital of Pakistan is Islamabad.
+[CONTRADICTED] The capital of Pakistan is London.
+[SUPPORTED] The capital of China is Beijing.
+[CONTRADICTED] The capital of China is London.
+[SUPPORTED] The capital of Russia is Moscow.
+[CONTRADICTED] The capital of Russia is London.
+[SUPPORTED] The capital of Turkey is Ankara.
+[CONTRADICTED] The capital of Turkey is London.
+[SUPPORTED] The capital of Greece is Athens.
+[CONTRADICTED] The capital of Greece is London.
+[SUPPORTED] The capital of Norway is Oslo.
+[CONTRADICTED] The capital of Norway is London.
+[SUPPORTED] The capital of Sweden is Stockholm.
+[CONTRADICTED] The capital of Sweden is London.
+[SUPPORTED] The capital of Finland is Helsinki.
+[CONTRADICTED] The capital of Finland is London.
+[SUPPORTED] The capital of Denmark is Copenhagen.
+[CONTRADICTED] The capital of Denmark is London.
+[SUPPORTED] The capital of Poland is Warsaw.
+[CONTRADICTED] The capital of Poland is London.
+[SUPPORTED] The capital of Austria is Vienna.
+[CONTRADICTED] The capital of Austria is London.
+[SUPPORTED] The capital of Belgium is Brussels.
+[CONTRADICTED] The capital of Belgium is London.
+[SUPPORTED] The capital of Netherlands is Amsterdam.
+[CONTRADICTED] The capital of Netherlands is London.
+[SUPPORTED] The capital of Ireland is Dublin.
+[CONTRADICTED] The capital of Ireland is London.
+[SUPPORTED] The capital of New Zealand is Wellington.
+[CONTRADICTED] The capital of New Zealand is London.
+[SUPPORTED] The capital of Saudi Arabia is Riyadh.
+[CONTRADICTED] The capital of Saudi Arabia is London.
+[SUPPORTED] The capital of United Arab Emirates is Abu Dhabi.
+[CONTRADICTED] The capital of United Arab Emirates is London.
+[SUPPORTED] The capital of Qatar is Doha.
+[CONTRADICTED] The capital of Qatar is London.
+[SUPPORTED] The capital of Vietnam is Hanoi.
+[CONTRADICTED] The capital of Vietnam is London.
+[SUPPORTED] The capital of Indonesia is Jakarta.
+[CONTRADICTED] The capital of Indonesia is London.
+[SUPPORTED] The capital of Philippines is Manila.
+[CONTRADICTED] The capital of Philippines is London.
+[SUPPORTED] Microsoft was founded by Bill Gates and Paul Allen.
+[CONTRADICTED] Microsoft was founded by Steve Jobs.
+[SUPPORTED] Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne.
+[CONTRADICTED] Apple was founded by Bill Gates.
+[SUPPORTED] Google was founded by Larry Page and Sergey Brin.
+[CONTRADICTED] Google was founded by Mark Zuckerberg.
+[SUPPORTED] Amazon was founded by Jeff Bezos.
+[CONTRADICTED] Amazon was founded by Elon Musk.
+[SUPPORTED] Facebook was founded by Mark Zuckerberg and his Harvard co-founders.
+[CONTRADICTED] Facebook was founded by Bill Gates.
+[SUPPORTED] Netflix was founded by Reed Hastings and Marc Randolph.
+[CONTRADICTED] Netflix was founded by Jeff Bezos.
+[SUPPORTED] NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem.
+[CONTRADICTED] NVIDIA was founded by Steve Jobs.
+[SUPPORTED] OpenAI was founded by a founding group including Sam Altman, Greg Brockman, Ilya Sutskever, and others.
+[CONTRADICTED] OpenAI was founded by Jeff Bezos.
+[SUPPORTED] Tesla Motors was founded by Martin Eberhard and Marc Tarpenning.
+[CONTRADICTED] Tesla Motors was founded by Bill Gates.
+[SUPPORTED] Machine learning is a subset of artificial intelligence.
+[CONTRADICTED] Machine learning is unrelated to artificial intelligence.
+[SUPPORTED] Supervised learning uses labeled training examples.
+[CONTRADICTED] Supervised learning never uses labeled training examples.
+[SUPPORTED] Unsupervised learning can discover patterns in unlabeled data.
+[CONTRADICTED] Unsupervised learning requires every example to have a target label.
+[SUPPORTED] Reinforcement learning uses rewards as feedback.
+[CONTRADICTED] Reinforcement learning never uses rewards.
+[SUPPORTED] Classification predicts categories.
+[CONTRADICTED] Classification always predicts continuous numerical values.
+[SUPPORTED] Regression predicts continuous numerical values.
+[CONTRADICTED] Regression can only predict categorical class labels.
+[SUPPORTED] K-means is a clustering algorithm.
+[CONTRADICTED] K-means is a supervised classification algorithm.
+[SUPPORTED] Decision trees can be used for classification.
+[CONTRADICTED] Decision trees cannot be used for classification.
+[SUPPORTED] Random forests combine multiple decision trees.
+[CONTRADICTED] Random forests contain only one decision tree.
+[SUPPORTED] Overfitting occurs when a model learns training-specific patterns that generalize poorly.
+[CONTRADICTED] Overfitting guarantees excellent performance on unseen data.
+[SUPPORTED] A confusion matrix summarizes classification predictions against actual labels.
+[CONTRADICTED] A confusion matrix is only used for regression.
+[SUPPORTED] Precision is the fraction of predicted positives that are truly positive.
+[CONTRADICTED] Precision is the fraction of predicted negatives that are truly negative.
+[SUPPORTED] Recall is the fraction of actual positives correctly identified.
+[CONTRADICTED] Recall is the fraction of actual negatives correctly identified.
+[SUPPORTED] The F1 score is the harmonic mean of precision and recall.
+[CONTRADICTED] The F1 score is the arithmetic mean of accuracy and loss.
+[SUPPORTED] Gradient descent is an optimization algorithm.
+[CONTRADICTED] Gradient descent is a database indexing algorithm.
+[SUPPORTED] A neural network can contain multiple layers.
+[CONTRADICTED] A neural network can never contain multiple layers.
+[SUPPORTED] Convolutional neural networks are commonly used for image tasks.
+[CONTRADICTED] Convolutional neural networks cannot process images.
+[SUPPORTED] Transformers use attention mechanisms.
+[CONTRADICTED] Transformers never use attention mechanisms.
+[SUPPORTED] A validation set helps with model selection and tuning.
+[CONTRADICTED] A validation set must always be used as the final untouched test set.
+[SUPPORTED] Data leakage can cause overly optimistic evaluation results.
+[CONTRADICTED] Data leakage always improves real-world generalization.
+[SUPPORTED] PCA is a dimensionality reduction technique.
+[CONTRADICTED] PCA is a reinforcement learning algorithm.
+[SUPPORTED] SVM stands for support vector machine.
+[CONTRADICTED] SVM stands for sequential vision memory.
+[SUPPORTED] KNN stands for k-nearest neighbors.
+[CONTRADICTED] KNN stands for kernel neural network.
+[SUPPORTED] Backpropagation computes gradients used to train neural networks.
+[CONTRADICTED] Backpropagation is a method for sorting arrays.
+[SUPPORTED] Generative AI can produce new text and images.
+[CONTRADICTED] Generative AI cannot generate text.
+[SUPPORTED] Large language models can generate inaccurate statements.
+[CONTRADICTED] Large language models always produce factually correct statements.
+[SUPPORTED] Retrieval-augmented generation uses retrieved information to inform generation.
+[CONTRADICTED] Retrieval-augmented generation never retrieves external information.
+[SUPPORTED] Embeddings represent information as numerical vectors.
+[CONTRADICTED] Embeddings are always plain English sentences.
+[SUPPORTED] A training dataset is used to fit model parameters.
+[CONTRADICTED] A training dataset is never used to fit model parameters.
+[SUPPORTED] An epoch is one complete pass through a training dataset.
+[CONTRADICTED] An epoch always means exactly one gradient update.
+[SUPPORTED] SELECT retrieves rows from a table or query result.
+[CONTRADICTED] SELECT is used only to delete rows.
+[SUPPORTED] WHERE filters rows according to a condition before grouping.
+[CONTRADICTED] WHERE filters groups after aggregation.
+[SUPPORTED] ORDER BY sorts query results according to specified expressions.
+[CONTRADICTED] ORDER BY permanently sorts rows stored in a table.
+[SUPPORTED] LIMIT restricts the maximum number of rows returned by a query.
+[CONTRADICTED] LIMIT increases the number of rows returned by a query.
+[SUPPORTED] SELECT DISTINCT eliminates duplicate rows from a query result.
+[CONTRADICTED] SELECT DISTINCT preserves all duplicate result rows.
+[SUPPORTED] GROUP BY combines rows sharing grouping values into groups.
+[CONTRADICTED] GROUP BY always sorts the final query output.
+[SUPPORTED] HAVING filters groups after grouping and aggregation.
+[CONTRADICTED] HAVING is only used to filter individual rows before grouping.
+[SUPPORTED] INNER JOIN returns rows that satisfy the join condition from both joined tables.
+[CONTRADICTED] INNER JOIN always returns all unmatched rows from both tables.
+[SUPPORTED] LEFT JOIN preserves unmatched rows from the left table, filling right-side columns with NULL.
+[CONTRADICTED] LEFT JOIN discards every unmatched row from the left table.
+[SUPPORTED] RIGHT JOIN preserves unmatched rows from the right table.
+[CONTRADICTED] RIGHT JOIN preserves only unmatched rows from the left table.
+[SUPPORTED] FULL OUTER JOIN includes unmatched rows from either joined table.
+[CONTRADICTED] FULL OUTER JOIN excludes all unmatched rows.
+[SUPPORTED] CROSS JOIN produces the Cartesian product of its input tables.
+[CONTRADICTED] CROSS JOIN returns only rows with matching key values.
+[SUPPORTED] COUNT(*) counts input rows, including rows containing NULL values.
+[CONTRADICTED] COUNT(*) excludes all rows containing any NULL column.
+[SUPPORTED] SUM computes the sum of non-NULL input values.
+[CONTRADICTED] SUM counts the number of non-NULL input rows.
+[SUPPORTED] AVG computes the arithmetic mean of non-NULL input values.
+[CONTRADICTED] AVG always includes NULL values as zeros.
+[SUPPORTED] MIN returns the smallest non-NULL input value.
+[CONTRADICTED] MIN returns the largest input value.
+[SUPPORTED] MAX returns the largest non-NULL input value.
+[CONTRADICTED] MAX returns the smallest input value.
+[SUPPORTED] A primary key uniquely identifies rows and requires unique non-NULL values.
+[CONTRADICTED] A primary key permits duplicate and NULL key values.
+[SUPPORTED] A foreign key enforces referential integrity between referencing and referenced columns.
+[CONTRADICTED] A foreign key requires every value to be unique within the referencing table.
+[SUPPORTED] A UNIQUE constraint prevents duplicate non-NULL values in its constrained key.
+[CONTRADICTED] A UNIQUE constraint permits unlimited duplicate non-NULL key values.
+[SUPPORTED] A NOT NULL constraint prevents NULL values in a column.
+[CONTRADICTED] A NOT NULL constraint requires every value in the column to be NULL.
+[SUPPORTED] A CHECK constraint validates a Boolean condition for inserted or updated rows.
+[CONTRADICTED] A CHECK constraint is used only to sort query results.
+[SUPPORTED] INSERT adds new rows to a table.
+[CONTRADICTED] INSERT removes existing rows from a table.
+[SUPPORTED] UPDATE modifies values in existing table rows.
+[CONTRADICTED] UPDATE can only create new tables.
+[SUPPORTED] DELETE removes rows from a table, optionally filtered by WHERE.
+[CONTRADICTED] DELETE always removes the table definition itself.
+[SUPPORTED] TRUNCATE quickly removes all rows from a table without dropping the table.
+[CONTRADICTED] TRUNCATE removes the table definition from the database.
+[SUPPORTED] CREATE TABLE defines a new table.
+[CONTRADICTED] CREATE TABLE removes an existing table.
+[SUPPORTED] ALTER TABLE changes the definition of an existing table.
+[CONTRADICTED] ALTER TABLE only retrieves rows from a table.
+[SUPPORTED] DROP TABLE removes a table definition and its data.
+[CONTRADICTED] DROP TABLE only deletes selected rows while keeping the table.
+[SUPPORTED] Database indexes can speed up retrieval but add storage and maintenance overhead.
+[CONTRADICTED] Database indexes guarantee faster execution for every query without any cost.
+[SUPPORTED] A transaction groups database operations into a unit of work.
+[CONTRADICTED] A transaction cannot contain more than one SQL statement.
+[SUPPORTED] COMMIT makes the changes of the current transaction permanent.
+[CONTRADICTED] COMMIT undoes the changes of the current transaction.
+[SUPPORTED] ROLLBACK aborts the current transaction and discards its uncommitted changes.
+[CONTRADICTED] ROLLBACK permanently saves all uncommitted changes.
+[SUPPORTED] A standard SQL view stores a query definition rather than independently storing its result rows.
+[CONTRADICTED] A standard SQL view always stores a separate physical copy of its result rows.
+[SUPPORTED] In SQL, NULL represents a missing or unknown value, not numeric zero.
+[CONTRADICTED] In SQL, NULL is exactly the same as numeric zero.
+[SUPPORTED] UNION combines results of compatible queries and removes duplicate result rows by default.
+[CONTRADICTED] UNION preserves all duplicate result rows by default.
+[SUPPORTED] UNION ALL combines compatible query results without removing duplicate rows.
+[CONTRADICTED] UNION ALL removes duplicate rows by default.
+[SUPPORTED] A subquery is a query nested inside another SQL statement.
+[CONTRADICTED] A subquery cannot appear within another SQL query.
+[SUPPORTED] ACID stands for Atomicity, Consistency, Isolation, and Durability.
+[CONTRADICTED] ACID stands for Accuracy, Clustering, Indexing, and Duplication.
+[SUPPORTED] SQL stands for Structured Query Language.
+[CONTRADICTED] SQL stands for Sequential Query Logic.
+[SUPPORTED] HAVING filters grouped results after aggregation.
+[CONTRADICTED] HAVING filters rows before grouping.
+[SUPPORTED] WHERE filters rows before aggregation and grouping.
+[CONTRADICTED] WHERE filters grouped results after aggregation.
+[SUPPORTED] GROUP BY groups rows sharing the same values in specified expressions.
+[CONTRADICTED] GROUP BY always sorts results in ascending order.
+[SUPPORTED] ORDER BY sorts query results by specified expressions.
+[CONTRADICTED] ORDER BY removes duplicate rows from a query.
+[SUPPORTED] DISTINCT removes duplicate result rows from a SELECT result.
+[CONTRADICTED] DISTINCT keeps all duplicate result rows.
+[SUPPORTED] LIMIT restricts the maximum number of result rows returned.
+[CONTRADICTED] LIMIT increases the number of result rows without restriction.
+[SUPPORTED] OFFSET skips a specified number of result rows.
+[CONTRADICTED] OFFSET guarantees the returned rows are sorted.
+[SUPPORTED] INNER JOIN returns rows satisfying the join condition from both sides.
+[CONTRADICTED] INNER JOIN includes all unmatched rows from both tables.
+[SUPPORTED] LEFT JOIN preserves every row from the left input and fills unmatched right columns with NULL.
+[CONTRADICTED] LEFT JOIN discards every unmatched row from the left input.
+[SUPPORTED] FULL OUTER JOIN includes unmatched rows from either input, with NULLs for missing columns.
+[CONTRADICTED] FULL OUTER JOIN returns only rows matching on both sides.
+[SUPPORTED] CROSS JOIN produces the Cartesian product of its two inputs.
+[CONTRADICTED] CROSS JOIN only returns rows with matching key values.
+[SUPPORTED] COUNT(*) counts all rows in a group, including rows containing NULL values.
+[CONTRADICTED] COUNT(*) ignores rows containing NULL values.
+[SUPPORTED] COUNT(column_name) counts non-NULL values in that column.
+[CONTRADICTED] COUNT(column_name) counts NULL values in that column.
+[SUPPORTED] AVG ignores NULL input values when calculating an average.
+[CONTRADICTED] AVG treats every NULL input as zero.
+[SUPPORTED] SUM computes the total of non-NULL numeric input values.
+[CONTRADICTED] SUM counts the number of table columns.
+[SUPPORTED] A PRIMARY KEY requires uniqueness and disallows NULL key values.
+[CONTRADICTED] A PRIMARY KEY allows duplicate and NULL key values.
+[SUPPORTED] A FOREIGN KEY enforces referential integrity between related tables.
+[CONTRADICTED] A FOREIGN KEY guarantees that values are unique in its own column.
+[SUPPORTED] A UNIQUE constraint prevents duplicate non-NULL values in a constrained column.
+[CONTRADICTED] A UNIQUE constraint permits duplicate non-NULL values without restriction.
+[SUPPORTED] NOT NULL prevents NULL values in a constrained column.
+[CONTRADICTED] NOT NULL requires every value in the column to be NULL.
+[SUPPORTED] CHECK constraints require inserted or updated rows to satisfy a Boolean condition.
+[CONTRADICTED] CHECK constraints automatically create a new table.
+[SUPPORTED] INSERT adds rows to a table.
+[CONTRADICTED] INSERT removes all rows from a table.
+[SUPPORTED] UPDATE modifies existing rows that satisfy its condition.
+[CONTRADICTED] UPDATE can only create new tables.
+[SUPPORTED] DELETE removes rows matching a condition.
+[CONTRADICTED] DELETE changes only the column names of a table.
+[SUPPORTED] TRUNCATE quickly removes all rows from specified tables.
+[CONTRADICTED] TRUNCATE removes only rows matching a WHERE condition.
+[SUPPORTED] A transaction groups statements into a unit that either commits or rolls back.
+[CONTRADICTED] A transaction can never be rolled back.
+[SUPPORTED] A database view is a named query that can be referenced like a table.
+[CONTRADICTED] A regular database view always stores a separate physical copy of its rows.
+[SUPPORTED] A materialized view stores query results and can be refreshed.
+[CONTRADICTED] A materialized view never stores query results.
+[SUPPORTED] UNION combines query results and removes duplicate rows by default.
+[CONTRADICTED] UNION preserves duplicate rows by default.
+[SUPPORTED] UNION ALL combines query results while retaining duplicates.
+[CONTRADICTED] UNION ALL always removes duplicates.
+[SUPPORTED] INTERSECT returns rows present in both query results.
+[CONTRADICTED] INTERSECT returns rows found only in the first query.
+[SUPPORTED] EXCEPT returns rows in the first query result that are absent from the second.
+[CONTRADICTED] EXCEPT returns only rows shared by both query results.
+[SUPPORTED] IS NULL tests whether an expression is NULL.
+[CONTRADICTED] An expression equals NULL using = NULL in standard SQL comparisons.
+[SUPPORTED] COALESCE returns the first non-NULL argument.
+[CONTRADICTED] COALESCE always returns its last argument.
+[SUPPORTED] CASE evaluates conditional expressions and returns a matching result.
+[CONTRADICTED] CASE is a command that deletes database tables.
+[SUPPORTED] EXISTS tests whether a subquery returns at least one row.
+[CONTRADICTED] EXISTS returns true only when a subquery returns no rows.
+[SUPPORTED] A B-tree index can support equality and range comparisons.
+[CONTRADICTED] A B-tree index can only support full-text search.
+[SUPPORTED] An index can improve some queries but adds maintenance overhead to writes.
+[CONTRADICTED] Adding indexes always speeds up every INSERT operation.
+[SUPPORTED] ROW_NUMBER assigns sequential numbers to rows within a window partition.
+[CONTRADICTED] ROW_NUMBER returns the total number of columns in a table.
+[SUPPORTED] RANK can assign the same rank to tied rows and leave gaps afterward.
+[CONTRADICTED] RANK always assigns unique consecutive ranks even when values tie.
+[SUPPORTED] DENSE_RANK assigns the same rank to ties without leaving rank gaps.
+[CONTRADICTED] DENSE_RANK always leaves rank gaps after ties.
+[SUPPORTED] A common table expression can be introduced using WITH.
+[CONTRADICTED] WITH is only used to delete databases.
+[SUPPORTED] A recursive CTE can reference its own output to process hierarchical data.
+[CONTRADICTED] Recursive CTEs cannot refer to their own output.
+[SUPPORTED] PostgreSQL supports JSONB for storing JSON data in a decomposed binary representation.
+[CONTRADICTED] PostgreSQL does not support JSON data types.
+[SUPPORTED] ILIKE performs case-insensitive pattern matching in PostgreSQL.
+[CONTRADICTED] ILIKE performs only case-sensitive pattern matching in PostgreSQL.
+[SUPPORTED] A schema is a namespace that contains database objects such as tables.
+[CONTRADICTED] A schema is always the same thing as a database server.
+[SUPPORTED] PostgreSQL uses MVCC to allow transactions to see consistent snapshots.
+[CONTRADICTED] PostgreSQL has no multiversion concurrency control.
+[SUPPORTED] The default PostgreSQL transaction isolation level is READ COMMITTED.
+[CONTRADICTED] The default PostgreSQL transaction isolation level is SERIALIZABLE.
+[SUPPORTED] A deadlock can occur when transactions wait for locks held by one another.
+[CONTRADICTED] Deadlocks cannot occur in relational databases.
+[SUPPORTED] A SAVEPOINT allows partial rollback within a transaction.
+[CONTRADICTED] A SAVEPOINT permanently commits the entire transaction.
+[SUPPORTED] A SQL injection vulnerability can occur when untrusted input is concatenated into executable SQL.
+[CONTRADICTED] Concatenating untrusted input into SQL always prevents SQL injection.
+[SUPPORTED] PostgreSQL supports prepared statements through PREPARE and EXECUTE.
+[CONTRADICTED] PostgreSQL does not support prepared statements.
+[SUPPORTED] A composite primary key consists of multiple columns.
+[CONTRADICTED] A composite primary key must contain exactly one column.
+[SUPPORTED] ON DELETE CASCADE can delete referencing rows when a referenced row is deleted.
+[CONTRADICTED] ON DELETE CASCADE prevents every referenced row from being deleted.
+[SUPPORTED] A correlated subquery references values from an outer query.
+[CONTRADICTED] A correlated subquery cannot reference columns from an outer query.
+[SUPPORTED] Normalization reduces certain data redundancies and update anomalies.
+[CONTRADICTED] Database normalization is intended to maximize unnecessary data duplication.
+[SUPPORTED] PostgreSQL supports INSERT ... ON CONFLICT for handling uniqueness conflicts.
+[CONTRADICTED] PostgreSQL does not support any ON CONFLICT clause.
+[INSUFFICIENT EVIDENCE] A confidential project named OrbitSQL-X was released in 2026.
+[INSUFFICIENT EVIDENCE] A private research lab named ZetaNova-44 trained an AI in 2025.
+[INSUFFICIENT EVIDENCE] The unpublished database engine HelioDB-900 supports quantum joins.
+[INSUFFICIENT EVIDENCE] A secret algorithm called PrismForest-7 was created by an anonymous company.
+[INSUFFICIENT EVIDENCE] An internal company called RiverStone-X invented a new SQL command named MERGIFY.
+[INSUFFICIENT EVIDENCE] A private island named Orivara has a capital called Zalora.
+[INSUFFICIENT EVIDENCE] An unreleased ML model named AzureFalcon-99 achieved 100% accuracy.
+[INSUFFICIENT EVIDENCE] The fictional startup FableSpark-28 was founded in 2031.
+[INSUFFICIENT EVIDENCE] A private SQL benchmark called Delta-QR received 99.9 points.
+[INSUFFICIENT EVIDENCE] A confidential lab named ThetaBrain-X invented a neural network in 2024.

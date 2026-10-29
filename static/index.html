@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ClaimWeave AI — Truth, traced.</title>
+  <link rel="stylesheet" href="/static/style.css?v=2">
+</head>
+
+<body>
+  <div class="shell">
+
+    <!-- ===================== SIDEBAR ===================== -->
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="brand-icon">✳</span>
+        <span>ClaimWeave <span class="brand-ai">AI</span></span>
+      </div>
+
+      <button class="new" id="newChat">＋ &nbsp; New verification</button>
+
+      <div class="side-label">WORKSPACE</div>
+      <button class="side-item active">◈ &nbsp; Verification studio</button>
+      <button class="side-item" id="openLibrary">
+        ▤ &nbsp; Evidence library <span id="libCount">89</span>
+      </button>
+
+      <div class="side-label">QUICK TESTS</div>
+      <button class="side-item sample"
+        data-sample="The capital of India is New Delhi.\nThe capital of Australia is Sydney.\nThe secret laboratory on Mars was founded in 2041.">
+        🌐 &nbsp; World capitals
+      </button>
+      <button class="side-item sample"
+        data-sample="Microsoft was founded by Bill Gates and Paul Allen.\nGoogle was founded by Mark Zuckerberg.\nThe private startup Blue Comet was founded in 2035.">
+        ◉ &nbsp; Company founders
+      </button>
+      <button class="side-item sample"
+        data-sample="Supervised learning uses labeled data.\nK-means is a supervised classification algorithm.\nMy private AI model achieved 99.9 percent accuracy.">
+        ⌘ &nbsp; Machine learning
+      </button>
+
+      <div class="side-bottom">
+        <div class="status">
+          <i></i> <span id="apiStatus">Checking API configuration…</span>
+        </div>
+        <p>Prototype · Evidence + live web</p>
+      </div>
+    </aside>
+
+    <!-- ===================== MAIN ===================== -->
+    <main class="main">
+
+      <header>
+        <div class="breadcrumb">WORKSPACE <span>/</span> VERIFICATION STUDIO</div>
+        <div class="header-right">
+          <span class="live-dot"></span> SYSTEM READY
+          <span class="avatar">CW</span>
+        </div>
+      </header>
+
+      <div class="content">
+
+        <!-- ---------- HERO ---------- -->
+        <div class="hero">
+          <div class="hero-orbit orbit-one" aria-hidden="true"></div>
+          <div class="hero-orbit orbit-two" aria-hidden="true"></div>
+
+          <div class="eyebrow">
+            <span class="spark">✦</span>
+            <span class="holo-title" aria-label="Explainable Hallucination Detection">
+              EXPLAINABLE HALLUCINATION DETECTION
+            </span>
+            <span class="beta">BETA</span>
+          </div>
+
+          <h1>
+            Every claim deserves<br>
+            <em class="truth-3d">the truth.</em>
+          </h1>
+
+          <p>
+            Detect misinformation, validate AI responses, and trace every
+            conclusion back to evidence — all in one intelligent workspace.
+          </p>
+
+          <div class="hero-tags">
+            <span>✧ Claim-by-claim analysis</span>
+            <span>◈ Traceable evidence</span>
+            <span>◎ Transparent verdicts</span>
+          </div>
+        </div>
+
+        <!-- ---------- WORKSPACE ---------- -->
+        <section class="workspace">
+
+          <div class="panel-title">
+            <div>
+              <span class="section-symbol symbol-3d">◈</span>
+              <strong>Verification workspace</strong>
+              <small>Paste any AI-generated answer to examine its claims</small>
+            </div>
+
+            <label class="mode-switch">
+              ◈ &nbsp; VERIFICATION MODE
+              <select id="verificationMode" aria-label="Verification mode">
+                <option value="live" selected>✦ Live Web · Groq + Serper</option>
+                <option value="evidence">Local reference matching only</option>
+                <option value="enhanced">Local enhanced matching only</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="input-wrap">
+            <div class="input-head">
+              <span>✎ &nbsp; AI RESPONSE / CLAIMS</span>
+              <span id="charCount">0 characters</span>
+            </div>
+
+            <textarea
+              maxlength="8000"
+              id="claimInput"
+              placeholder="Paste an AI-generated response here…&#10;&#10;For example:&#10;The capital of India is New Delhi.&#10;The capital of Australia is Sydney.&#10;A private space laboratory was built on Neptune in 2042."></textarea>
+
+            <div class="input-footer">
+              <span>✦ Up to 12 factual claims · Live web search is selected</span>
+              <button id="verifyBtn">
+                <span id="btnText">✧ &nbsp; Analyze Claims</span>
+                <span class="arrow">↗</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="upload-panel" id="uploadPanel">
+            <div class="upload-icon">▧</div>
+            <div>
+              <strong>Ground your analysis in evidence</strong>
+              <p>Used in local modes only · Live mode searches the web · CSV, TXT, JSON · max 8 MB</p>
+            </div>
+            <label class="upload-button">
+              ＋ Add sources
+              <input id="fileInput" type="file" accept=".csv,.txt,.json" hidden>
+            </label>
+          </div>
+
+          <div class="file-list" id="fileList"></div>
+          <p id="verificationNotice" role="status" aria-live="polite"></p>
+        </section>
+
+        <!-- ---------- RESULTS ---------- -->
+        <section class="results hidden" id="results">
+
+          <div class="results-heading">
+            <div>
+              <span class="eyebrow">◈ VERIFICATION REPORT</span>
+              <h2>Analysis complete<span class="gradient-dot">.</span></h2>
+              <p id="resultSubtitle"></p>
+            </div>
+            <button class="export" id="exportBtn">⇩ &nbsp; Export JSON</button>
+          </div>
+
+          <div class="metrics">
+            <div class="metric green">
+              <span>✓ &nbsp; SUPPORTED</span>
+              <strong id="supportedCount">0</strong>
+              <small>Grounded in evidence</small>
+            </div>
+            <div class="metric red">
+              <span>✕ &nbsp; CONTRADICTED</span>
+              <strong id="contradictedCount">0</strong>
+              <small>Conflicts with references</small>
+            </div>
+            <div class="metric amber">
+              <span>◇ &nbsp; INSUFFICIENT</span>
+              <strong id="insufficientCount">0</strong>
+              <small>Unable to verify</small>
+            </div>
+          </div>
+
+          <div class="verdict-heading">
+            <h3>Claim-by-claim breakdown</h3>
+            <div class="filters">
+              <button class="filter selected" data-filter="ALL">All</button>
+              <button class="filter" data-filter="SUPPORTED">Supported</button>
+              <button class="filter" data-filter="CONTRADICTED">Contradicted</button>
+              <button class="filter" data-filter="INSUFFICIENT EVIDENCE">Unverified</button>
+              <button class="filter" data-filter="ERROR">Errors</button>
+            </div>
+          </div>
+
+          <div id="claimCards"></div>
+        </section>
+
+        <div class="bottom-note">
+          ✳ &nbsp; ClaimWeave AI <span>·</span> Built for explainable, evidence-grounded AI
+        </div>
+
+      </div><!-- /.content -->
+    </main>
+  </div><!-- /.shell -->
+
+  <div class="toast" id="toast"></div>
+
+  <script src="/static/app.js?v=3"></script>
+</body>
+</html>

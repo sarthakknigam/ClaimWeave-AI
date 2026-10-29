@@ -1,0 +1,84 @@
+claim,expected_label,corrected_fact,source_url
+SELECT retrieves rows from a table or query result.,supported,,https://www.postgresql.org/docs/current/queries-table-expressions.html
+SELECT is used only to delete rows.,contradicted,SELECT retrieves rows from a table or query result.,https://www.postgresql.org/docs/current/queries-table-expressions.html
+WHERE filters rows according to a condition before grouping.,supported,,https://www.postgresql.org/docs/current/queries-table-expressions.html
+WHERE filters groups after aggregation.,contradicted,WHERE filters rows according to a condition before grouping.,https://www.postgresql.org/docs/current/queries-table-expressions.html
+ORDER BY sorts query results according to specified expressions.,supported,,https://www.postgresql.org/docs/current/queries-order.html
+ORDER BY permanently sorts rows stored in a table.,contradicted,ORDER BY sorts query results according to specified expressions.,https://www.postgresql.org/docs/current/queries-order.html
+LIMIT restricts the maximum number of rows returned by a query.,supported,,https://www.postgresql.org/docs/current/queries-limit.html
+LIMIT increases the number of rows returned by a query.,contradicted,LIMIT restricts the maximum number of rows returned by a query.,https://www.postgresql.org/docs/current/queries-limit.html
+SELECT DISTINCT eliminates duplicate rows from a query result.,supported,,https://www.postgresql.org/docs/current/queries-select-lists.html
+SELECT DISTINCT preserves all duplicate result rows.,contradicted,SELECT DISTINCT eliminates duplicate rows from a query result.,https://www.postgresql.org/docs/current/queries-select-lists.html
+GROUP BY combines rows sharing grouping values into groups.,supported,,https://www.postgresql.org/docs/current/queries-table-expressions.html
+GROUP BY always sorts the final query output.,contradicted,GROUP BY combines rows sharing grouping values into groups.,https://www.postgresql.org/docs/current/queries-table-expressions.html
+HAVING filters groups after grouping and aggregation.,supported,,https://www.postgresql.org/docs/current/queries-table-expressions.html
+HAVING is only used to filter individual rows before grouping.,contradicted,HAVING filters groups after grouping and aggregation.,https://www.postgresql.org/docs/current/queries-table-expressions.html
+INNER JOIN returns rows that satisfy the join condition from both joined tables.,supported,,https://www.postgresql.org/docs/current/queries-table-expressions.html
+INNER JOIN always returns all unmatched rows from both tables.,contradicted,INNER JOIN returns rows that satisfy the join condition from both joined tables.,https://www.postgresql.org/docs/current/queries-table-expressions.html
+"LEFT JOIN preserves unmatched rows from the left table, filling right-side columns with NULL.",supported,,https://www.postgresql.org/docs/current/queries-table-expressions.html
+LEFT JOIN discards every unmatched row from the left table.,contradicted,"LEFT JOIN preserves unmatched rows from the left table, filling right-side columns with NULL.",https://www.postgresql.org/docs/current/queries-table-expressions.html
+RIGHT JOIN preserves unmatched rows from the right table.,supported,,https://www.postgresql.org/docs/current/queries-table-expressions.html
+RIGHT JOIN preserves only unmatched rows from the left table.,contradicted,RIGHT JOIN preserves unmatched rows from the right table.,https://www.postgresql.org/docs/current/queries-table-expressions.html
+FULL OUTER JOIN includes unmatched rows from either joined table.,supported,,https://www.postgresql.org/docs/current/queries-table-expressions.html
+FULL OUTER JOIN excludes all unmatched rows.,contradicted,FULL OUTER JOIN includes unmatched rows from either joined table.,https://www.postgresql.org/docs/current/queries-table-expressions.html
+CROSS JOIN produces the Cartesian product of its input tables.,supported,,https://www.postgresql.org/docs/current/queries-table-expressions.html
+CROSS JOIN returns only rows with matching key values.,contradicted,CROSS JOIN produces the Cartesian product of its input tables.,https://www.postgresql.org/docs/current/queries-table-expressions.html
+"COUNT(*) counts input rows, including rows containing NULL values.",supported,,https://www.postgresql.org/docs/current/functions-aggregate.html
+COUNT(*) excludes all rows containing any NULL column.,contradicted,"COUNT(*) counts input rows, including rows containing NULL values.",https://www.postgresql.org/docs/current/functions-aggregate.html
+SUM computes the sum of non-NULL input values.,supported,,https://www.postgresql.org/docs/current/functions-aggregate.html
+SUM counts the number of non-NULL input rows.,contradicted,SUM computes the sum of non-NULL input values.,https://www.postgresql.org/docs/current/functions-aggregate.html
+AVG computes the arithmetic mean of non-NULL input values.,supported,,https://www.postgresql.org/docs/current/functions-aggregate.html
+AVG always includes NULL values as zeros.,contradicted,AVG computes the arithmetic mean of non-NULL input values.,https://www.postgresql.org/docs/current/functions-aggregate.html
+MIN returns the smallest non-NULL input value.,supported,,https://www.postgresql.org/docs/current/functions-aggregate.html
+MIN returns the largest input value.,contradicted,MIN returns the smallest non-NULL input value.,https://www.postgresql.org/docs/current/functions-aggregate.html
+MAX returns the largest non-NULL input value.,supported,,https://www.postgresql.org/docs/current/functions-aggregate.html
+MAX returns the smallest input value.,contradicted,MAX returns the largest non-NULL input value.,https://www.postgresql.org/docs/current/functions-aggregate.html
+A primary key uniquely identifies rows and requires unique non-NULL values.,supported,,https://www.postgresql.org/docs/current/ddl-constraints.html
+A primary key permits duplicate and NULL key values.,contradicted,A primary key uniquely identifies rows and requires unique non-NULL values.,https://www.postgresql.org/docs/current/ddl-constraints.html
+A foreign key enforces referential integrity between referencing and referenced columns.,supported,,https://www.postgresql.org/docs/current/ddl-constraints.html
+A foreign key requires every value to be unique within the referencing table.,contradicted,A foreign key enforces referential integrity between referencing and referenced columns.,https://www.postgresql.org/docs/current/ddl-constraints.html
+A UNIQUE constraint prevents duplicate non-NULL values in its constrained key.,supported,,https://www.postgresql.org/docs/current/ddl-constraints.html
+A UNIQUE constraint permits unlimited duplicate non-NULL key values.,contradicted,A UNIQUE constraint prevents duplicate non-NULL values in its constrained key.,https://www.postgresql.org/docs/current/ddl-constraints.html
+A NOT NULL constraint prevents NULL values in a column.,supported,,https://www.postgresql.org/docs/current/ddl-constraints.html
+A NOT NULL constraint requires every value in the column to be NULL.,contradicted,A NOT NULL constraint prevents NULL values in a column.,https://www.postgresql.org/docs/current/ddl-constraints.html
+A CHECK constraint validates a Boolean condition for inserted or updated rows.,supported,,https://www.postgresql.org/docs/current/ddl-constraints.html
+A CHECK constraint is used only to sort query results.,contradicted,A CHECK constraint validates a Boolean condition for inserted or updated rows.,https://www.postgresql.org/docs/current/ddl-constraints.html
+INSERT adds new rows to a table.,supported,,https://www.postgresql.org/docs/current/sql-insert.html
+INSERT removes existing rows from a table.,contradicted,INSERT adds new rows to a table.,https://www.postgresql.org/docs/current/sql-insert.html
+UPDATE modifies values in existing table rows.,supported,,https://www.postgresql.org/docs/current/sql-update.html
+UPDATE can only create new tables.,contradicted,UPDATE modifies values in existing table rows.,https://www.postgresql.org/docs/current/sql-update.html
+"DELETE removes rows from a table, optionally filtered by WHERE.",supported,,https://www.postgresql.org/docs/current/sql-delete.html
+DELETE always removes the table definition itself.,contradicted,"DELETE removes rows from a table, optionally filtered by WHERE.",https://www.postgresql.org/docs/current/sql-delete.html
+TRUNCATE quickly removes all rows from a table without dropping the table.,supported,,https://www.postgresql.org/docs/current/sql-truncate.html
+TRUNCATE removes the table definition from the database.,contradicted,TRUNCATE quickly removes all rows from a table without dropping the table.,https://www.postgresql.org/docs/current/sql-truncate.html
+CREATE TABLE defines a new table.,supported,,https://www.postgresql.org/docs/current/sql-createtable.html
+CREATE TABLE removes an existing table.,contradicted,CREATE TABLE defines a new table.,https://www.postgresql.org/docs/current/sql-createtable.html
+ALTER TABLE changes the definition of an existing table.,supported,,https://www.postgresql.org/docs/current/sql-altertable.html
+ALTER TABLE only retrieves rows from a table.,contradicted,ALTER TABLE changes the definition of an existing table.,https://www.postgresql.org/docs/current/sql-altertable.html
+DROP TABLE removes a table definition and its data.,supported,,https://www.postgresql.org/docs/current/sql-droptable.html
+DROP TABLE only deletes selected rows while keeping the table.,contradicted,DROP TABLE removes a table definition and its data.,https://www.postgresql.org/docs/current/sql-droptable.html
+Database indexes can speed up retrieval but add storage and maintenance overhead.,supported,,https://www.postgresql.org/docs/current/indexes-intro.html
+Database indexes guarantee faster execution for every query without any cost.,contradicted,Database indexes can speed up retrieval but add storage and maintenance overhead.,https://www.postgresql.org/docs/current/indexes-intro.html
+A transaction groups database operations into a unit of work.,supported,,https://www.postgresql.org/docs/current/tutorial-transactions.html
+A transaction cannot contain more than one SQL statement.,contradicted,A transaction groups database operations into a unit of work.,https://www.postgresql.org/docs/current/tutorial-transactions.html
+COMMIT makes the changes of the current transaction permanent.,supported,,https://www.postgresql.org/docs/current/sql-commit.html
+COMMIT undoes the changes of the current transaction.,contradicted,COMMIT makes the changes of the current transaction permanent.,https://www.postgresql.org/docs/current/sql-commit.html
+ROLLBACK aborts the current transaction and discards its uncommitted changes.,supported,,https://www.postgresql.org/docs/current/sql-rollback.html
+ROLLBACK permanently saves all uncommitted changes.,contradicted,ROLLBACK aborts the current transaction and discards its uncommitted changes.,https://www.postgresql.org/docs/current/sql-rollback.html
+A standard SQL view stores a query definition rather than independently storing its result rows.,supported,,https://www.postgresql.org/docs/current/sql-createview.html
+A standard SQL view always stores a separate physical copy of its result rows.,contradicted,A standard SQL view stores a query definition rather than independently storing its result rows.,https://www.postgresql.org/docs/current/sql-createview.html
+"In SQL, NULL represents a missing or unknown value, not numeric zero.",supported,,https://www.postgresql.org/docs/current/functions-comparison.html
+"In SQL, NULL is exactly the same as numeric zero.",contradicted,"In SQL, NULL represents a missing or unknown value, not numeric zero.",https://www.postgresql.org/docs/current/functions-comparison.html
+UNION combines results of compatible queries and removes duplicate result rows by default.,supported,,https://www.postgresql.org/docs/current/queries-union.html
+UNION preserves all duplicate result rows by default.,contradicted,UNION combines results of compatible queries and removes duplicate result rows by default.,https://www.postgresql.org/docs/current/queries-union.html
+UNION ALL combines compatible query results without removing duplicate rows.,supported,,https://www.postgresql.org/docs/current/queries-union.html
+UNION ALL removes duplicate rows by default.,contradicted,UNION ALL combines compatible query results without removing duplicate rows.,https://www.postgresql.org/docs/current/queries-union.html
+A subquery is a query nested inside another SQL statement.,supported,,https://www.postgresql.org/docs/current/functions-subquery.html
+A subquery cannot appear within another SQL query.,contradicted,A subquery is a query nested inside another SQL statement.,https://www.postgresql.org/docs/current/functions-subquery.html
+"ACID stands for Atomicity, Consistency, Isolation, and Durability.",supported,,https://www.postgresql.org/docs/current/tutorial-transactions.html
+"ACID stands for Accuracy, Clustering, Indexing, and Duplication.",contradicted,"ACID stands for Atomicity, Consistency, Isolation, and Durability.",https://www.postgresql.org/docs/current/tutorial-transactions.html
+SQL stands for Structured Query Language.,supported,,https://www.postgresql.org/docs/current/tutorial-sql.html
+SQL stands for Sequential Query Logic.,contradicted,SQL stands for Structured Query Language.,https://www.postgresql.org/docs/current/tutorial-sql.html
+The private database system ZephyrSQL-900 uses a quantum optimizer.,insufficient_evidence,,
+A confidential company invented SQL-Next in 2026.,insufficient_evidence,,
+The unreleased DB engine NebulaCore achieved 99.99% accuracy.,insufficient_evidence,,
